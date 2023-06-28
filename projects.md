@@ -40,4 +40,3 @@ title: Projects
  - <strong>Patent</strong>
 		<br> <strong>Gong, W.</strong> and Yang, L: 一种级联灾害的动态风险评估方法、装置及服务器
 <br>
----
