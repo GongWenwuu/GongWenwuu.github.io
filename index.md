@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-Here is **Wenwu GONG ([龚文武](https://github.com/GongWenwuu/GongWenwuu.github.io/images/profiles.png))**.
+Here is **Wenwu GONG (龚文武 in Chinese)**.
 
 I am a Ph.D. student at the <a href="https://stat-ds.sustech.edu.cn/"> Department of Statistics and Data Science, SUSTech</a>, Shenzhen, where I work on **low-rank tensor learning** and **nonconvex optimization**. 
 
