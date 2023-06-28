@@ -22,10 +22,6 @@ title: Projects
 
 ### [Dynamic Risk Assessment of Compound Hazards (MSc: 2018-2020)](https://GongWenwuu.github.io/mypaper/modeling/NHESS_2022.pdf)
 
-<center>
-<img src="/images/VFSIDM.png" class="floatpic" width="560" height="400">
-</center>
-
 #### Paper
 
 - **Gong, W.**, Jiang, J., and Yang, L.: Dynamic Risk Assessment of Compound Hazards Based on VFS-IEM-IDM: A Case Study of Typhoon-Rainstorm Hazards in Shenzhen, China. <em>NHESS</em> 2022 | <a style="color: #447ec9" href="https://doi.org/10.5194/nhess-22-3271-2022">JCR 1</a> <a style="color: #447ec9" href="https://github.com/GongWenwuu/VFS-IEM-IDM">Python</a>
