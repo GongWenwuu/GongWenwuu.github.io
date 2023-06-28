@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-Here is **Wenwu GONG ([龚文武]**.
+Here is **Wenwu GONG ([龚文武](https://github.com/GongWenwuu/GongWenwuu.github.io/images/profiles.png))**.
 
 I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
