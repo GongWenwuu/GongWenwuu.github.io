@@ -16,9 +16,8 @@ title: Miscellaneous
 ## Hobbies
 #### Football
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/f1.jpg">
+<img src="/images/f2.jpg">
 </div>
 <br> Hala, Madrid!
 
