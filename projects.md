@@ -7,8 +7,7 @@ title: Projects
 # Research Projects
 
 #### [COVID-19 Intervention Analysis](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf)
- <ol> <p >
-		<li><strong>Paper</strong>
+ <ol> <li><strong>Paper</strong>
 		<br>
 		Meng F, <strong>Gong, W.</strong>, Liang J, Li X, Zeng Y, Yang L: Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S. and Singapore.
 		<em>PLoS ONE</em> 2021 | <a style="color: #447ec9" href="https://pubmed.ncbi.nlm.nih.gov/33724996/">JCR 2</a>
