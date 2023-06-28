@@ -6,7 +6,7 @@ title: Projects
 
 # Research Projects
 
-#### [Low-rank Tensor Learning (Web)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
+#### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
 
 <center>
 <img src="/images/Tensor Learning.png">
