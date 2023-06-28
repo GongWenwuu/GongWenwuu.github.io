@@ -9,7 +9,7 @@ title: Projects
 #### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
 
 <center>
-<img src="/images/TensorLearning.png" class="floatpic" width="360" height="480">
+<img src="/images/Tensorlearning.png" class="floatpic" width="560" height="200">
 </center>
 
 <br>
@@ -28,7 +28,7 @@ title: Projects
 #### [Dynamic Risk Assessment of Compound Hazards (MSc: 2018-2020)](https://GongWenwuu.github.io/mypaper/modeling/NHESS_2022.pdf)
 
 <center>
-<img src="/images/VFSIDM.png" class="floatpic" width="360" height="480">
+<img src="/images/VFSIDM.png" class="floatpic" width="560" height="400">
 </center>
 
 - <strong>Paper</strong>
