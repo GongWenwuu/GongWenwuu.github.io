@@ -6,20 +6,20 @@ title: Projects
 
 # Research Projects
 
-#### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
+### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
 
 
-#### [COVID-19 Intervention Analysis (2020-2021)](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf)
+### [COVID-19 Intervention Analysis (2020-2021)](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf)
  - <strong>Paper</strong>
-		<br> Meng F, <strong>Gong, W.</strong>, Liang J, Li X, Zeng Y, Yang L: Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S., and Singapore.
+		##### Meng F, <strong>Gong, W.</strong>, Liang J, Li X, Zeng Y, Yang L: Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S., and Singapore.
 		<em>PLoS ONE</em> 2021 | <a style="color: #447ec9" href="https://pubmed.ncbi.nlm.nih.gov/33724996/">JCR 2</a>
 		<a style="color: #447ec9" href="https://github.com/GongWenwuu/SARIMA-COVID-19">Python</a>
   
  - <strong>Award</strong>
-		<br> <a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/News/146.html">National Postgraduate Statistical Modeling Competition</a>
+		##### <a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/News/146.html">National Postgraduate Statistical Modeling Competition</a>
 <br>
 
-#### [Dynamic Risk Assessment of Compound Hazards (MSc: 2018-2020)](https://GongWenwuu.github.io/mypaper/modeling/NHESS_2022.pdf)
+### [Dynamic Risk Assessment of Compound Hazards (MSc: 2018-2020)](https://GongWenwuu.github.io/mypaper/modeling/NHESS_2022.pdf)
 
 <center>
 <img src="/images/VFSIDM.png" class="floatpic" width="560" height="400">
