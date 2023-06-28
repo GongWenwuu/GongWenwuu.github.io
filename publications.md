@@ -16,15 +16,14 @@ Lastest Update: 28th June 2023&nbsp;
 
 ## Conference Paper
 
-- [LSPTD: Low-rank and spatiotemporal priors enhanced Tucker decomposition for internet traffic data imputation]. <br>**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>ITSC 2023</em>, Under Review.
+- [LSPTD: Low-rank and spatiotemporal priors enhanced Tucker decomposition for internet traffic data imputation] <br>**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>ITSC 2023</em>, Under Review.
 
-- [Enhanced low-rank and sparse Tucker decomposition for image inpainting]. <br>**Wenwu Gong**, Zhejun Huang, Rongping Huang, Lili Yang. <em>BMVC 2023<em>, Under Review.
-<br>
+- [Enhanced low-rank and sparse Tucker decomposition for image inpainting] <br>**Wenwu Gong**, Zhejun Huang, Rongping Huang, Lili Yang. <em>BMVC 2023<em>, Under Review.
 
 ---
 
 ## Working Manuscript
 
-- Tucker-based Global and Local Priors Model for Tensor Completion .<br>**Wenwu Gong**..
+- Tucker-based Global and Local Priors Model for Tensor Completion. **Wenwu Gong**.
 
 <br>
