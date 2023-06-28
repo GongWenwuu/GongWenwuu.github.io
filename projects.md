@@ -7,6 +7,7 @@ title: Projects
 # Research Projects
 
 #### [COVID-19 Intervention Analysis](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf)
+ <ol> <p >
 		<li><strong>Paper</strong>
 		<br>
 		Meng F, <strong>Gong, W.</strong>, Liang J, Li X, Zeng Y, Yang L: Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S. and Singapore.
@@ -16,7 +17,7 @@ title: Projects
 		<li><strong>Award</strong>
 		<br>
 		<a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/News/146.html">National Postgraduate Statistical Modeling Competition</a>
-               </p>
+               </p></ol>
 
 #### [Multi-objective Optimization Strategy Model (MCM-2023)](https://GongWenwuu.github.io/mypaper/modeling/202302COMAP.pdf)
 
