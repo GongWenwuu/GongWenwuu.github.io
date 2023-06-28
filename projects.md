@@ -9,7 +9,7 @@ title: Projects
 #### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
 
 <center>
-<img src="/images/Tensorlearning.png" class="floatpic" width="560" height="200">
+<img src="/images/Tensorlearning.png" class="floatpic" width="560" height="300">
 </center>
 
 <br>
