@@ -6,8 +6,6 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.<br>
-
 #### [COVID-19 Intervention Analysis](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf)
 		<li><strong>Paper</strong>
 		<br>
