@@ -1,22 +1,22 @@
-title: Hanlin Cai
-# tagline: Two roads diverged in woods, I took the one less traveled by.
-description: Two roads diverged in woods, I took the one less traveled by.
+title: Wenwu GONG
+tagline: Never put off what you can do today until tomorrow.
+description: Do your research! Develop a taste!
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://gongwenwu.netlify.app/
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: GongWenwu
+  avatar: gww.jpg
 #  bio:
-  email: hanlin.cai@ieee.org
+  email: 12031299@mail.sustech.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlin-cai-07b53b23b
+  # twitter: 
+  # facebook: 
+  github: GongWenwuu
+  # linkedin: 
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # instagram: lancecai2002
+  # instagram: 
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -42,10 +42,8 @@ links:
     url: /projects/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  - title: Miscellaneous
+    url: /Miscellaneous/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
@@ -81,7 +79,3 @@ disqus:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-
-# Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
