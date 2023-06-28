@@ -8,12 +8,6 @@ title: Projects
 
 #### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
 
-<center>
-<img src="/images/Tensorlearning.png" class="floatpic" width="560" height="300">
-</center>
-
-<br>
-
 
 #### [COVID-19 Intervention Analysis (2020-2021)](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf)
  - <strong>Paper</strong>
