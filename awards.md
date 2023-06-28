@@ -6,7 +6,7 @@ title: Awards
 
 ## Scholarships
 
-- May 2021：**<a style="color: #447ec9" href="https://gs.sustech.edu.cn/#/common/detail?current_id=11&id=176&article_id=3009">Innovative Practice Fund of SUSTech</a>**(￥10000)<br>
+- May 2021：**B Level** <a style="color: #447ec9" href="https://gs.sustech.edu.cn/#/common/detail?current_id=11&id=176&article_id=3009">Innovative Practice Fund of SUSTech</a>(￥10000)<br>
 
 ## Competitions
 
@@ -15,7 +15,7 @@ title: Awards
 ## Honors
 
 - June 2023：**International Training program** <a style="color: #447ec9" href="https://gs.sustech.edu.cn/#/common/detail?current_id=8&id=127&article_id=3077">International training program for outstanding young researchers of Guangdong Province</a><br> (￥18000)
-- Sep 2020：**<a style="color: #447ec9" href="https://gs.sustech.edu.cn/#/common/detail?current_id=11&id=176&article_id=3009">Innovative Practice Fund of SUSTech</a>** (￥82000)
+- Sep 2020：**<a style="color: #447ec9" href="https://gs.sustech.edu.cn/#/common/detail?current_id=11&id=176&article_id=3009">Innovative Practice Fund of SUSTech</a>**(￥82000)
 
 ## Services
 - Nov 2022：Volunteer of **XPLORER Forum**
