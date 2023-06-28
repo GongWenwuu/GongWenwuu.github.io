@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://GongWenwuu.github.io/gww.jpg" class="floatpic" width="360" height="480">
+<img src="https://GongWenwuu.github.io/profile.jpg" class="floatpic" width="360" height="480">
 
 Here is **Wenwu GONG (龚文武 in Chinese)**.
 
