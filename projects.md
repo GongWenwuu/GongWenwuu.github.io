@@ -15,7 +15,6 @@ P.S., click the hyperlink title to access the source.<br>
 		<a style="color: #447ec9" href="https://github.com/GongWenwuu/SARIMA-COVID-19">Python</a>
 		<br>
 		<a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/News/146.html">National Postgraduate Statistical Modeling Competition</a>
-               </p></ol>
 
 #### [Multi-objective Optimization Strategy Model (MCM-2023)](https://GongWenwuu.github.io/mypaper/modeling/202302COMAP.pdf)
 
