@@ -7,12 +7,11 @@ title: Projects
 # Research Projects
 
 ### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
-- [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/AMM_2023.pdf),**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>Applied Mathematical Modeling</em> 2023 | <a style="color: #447ec9" href="https://github.com/GongWenwuu/ARD">JCR 1</a><em>
+- **Wenwu Gong**, Zhejun Huang, Lili Yang: [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/AMM_2023.pdf). <em>Applied Mathematical Modeling</em> 2023 | <a style="color: #447ec9" href="https://github.com/GongWenwuu/ARD">Matlab</a><em>
 
 ### [COVID-19 Intervention Analysis (2020-2021)](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf)
 #### Paper
-- Meng F, **Gong, W.**, Liang J, Li X, Zeng Y, Yang L: Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S., and Singapore.
-		<em>PLoS ONE</em> 2021 | <a style="color: #447ec9" href="https://pubmed.ncbi.nlm.nih.gov/33724996/">JCR 2</a>
+- Meng F, **Gong, W.**, Liang J, Li X, Zeng Y, Yang L: Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S., and Singapore. <em>PLoS ONE</em> 2021 | <a style="color: #447ec9" href="https://pubmed.ncbi.nlm.nih.gov/33724996/">JCR 2</a>
 		<a style="color: #447ec9" href="https://github.com/GongWenwuu/SARIMA-COVID-19">Python</a>
   
 #### Award
