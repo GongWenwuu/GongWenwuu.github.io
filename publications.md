@@ -10,8 +10,6 @@ Latest Update: 28th June 2023&nbsp;
 
 ## Journal Paper
 
-- [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/AMM_2023.pdf),**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>Applied Mathematical Modeling 2023</em> <a style="color: #447ec9" href="https://github.com/GongWenwuu/ARD">Matlab</a><em>.
-  
 - **Wenwu Gong**, Zhejun Huang, Lili Yang: [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/AMM_2023.pdf).
 		<em>Applied Mathematical Modeling</em> 2023 | <a style="color: #447ec9" href="https://www.sciencedirect.com/journal/applied-mathematical-modelling">JCR 1</a>
 		<a style="color: #447ec9" href="https://github.com/GongWenwuu/ARD">Matlab</a>
