@@ -6,28 +6,26 @@ title: Publications
 
 # Publications
 
-Lastest Update: 27th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Lastest Update: 28th June 2023&nbsp; 
 
-## Undergrad Thesis
+## Journal Paper
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab<br>
+- [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/AMM_2023.pdf)<br>**Wenwu Gong**, Zhejun Huang, Lili Yang<br> <em>Applied Mathematical Modeling</em> 2023 | JCR 1
+<a style="color: #447ec9" href="https://github.com/GongWenwuu/ARD">Matlab</a><br>.
+
+- [Manifold Regularized Tucker Decomposition Approach for Spatiotemporal Traffic Data Imputation](https://GongWenwuu.github.io/mypaper/T-ITS_2023.pdf)<br>**Wenwu Gong**, Zhejun Huang, Lili Yang<br> <em>ArXiv</em> 2023. 
 
 ## Conference Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+- [LSPTD: Low-rank and spatiotemporal priors enhanced Tucker decomposition for internet traffic data imputation]<br>**Wenwu Gong**, Zhejun Huang, Lili Yang<br>ITSC 2023<br> <br>Under Review<br>
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
-
+- [Enhanced low-rank and sparse Tucker decomposition for image inpainting](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Wenwu Gong**, Zhejun Huang, Rongping Huang, Lili Yang<br>BMVC 2023<br> <br>Under Review<br>
 <br>
 
 ---
 
-## Competition Paper
-
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>
-
 ## Working Manuscript
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) and Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (during 2022 Summer Intern at Cambridge University)
+- Tucker-based Global and Local Priors Model for Tensor Completion .<br>**Wenwu Gong**..
 
 <br>
