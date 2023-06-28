@@ -17,7 +17,7 @@ title: Projects
 - Meng F, **Gong, W.**, Liang J, Li X, Zeng Y, Yang L: Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S., and Singapore. <em>PLoS ONE</em> 2021.
   
 #### Award
-- <a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/News/146.html">National Postgraduate Statistical Modeling Competition</a>
+- National Postgraduate Statistical Modeling Competition
 <br>
 
 ### [Dynamic Risk Assessment of Compound Hazards (MSc: 2018-2020)](https://GongWenwuu.github.io/mypaper/modeling/NHESS_2022.pdf)
