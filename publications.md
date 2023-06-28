@@ -10,8 +10,7 @@ Lastest Update: 28th June 2023&nbsp;
 
 ## Journal Paper
 
-- [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/AMM_2023.pdf),**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>Applied Mathematical Modeling</em> 2023|JCR 1 <a style="color: #447ec9" href="https://github.com/GongWenwuu/ARD">Matlab</a>.
-
+- [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/AMM_2023.pdf),**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>Applied Mathematical Modeling</em> 2023 | <a style="color: #447ec9" href="https://github.com/GongWenwuu/ARD">JCR 1</a><em>.
 - [Manifold Regularized Tucker Decomposition Approach for Spatiotemporal Traffic Data Imputation](https://GongWenwuu.github.io/mypaper/T-ITS_2023.pdf),**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>ArXiv</em> 2023. 
 
 ## Conference Paper
