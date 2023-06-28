@@ -25,7 +25,7 @@ title: Projects
 		<br> <strong>Gong, W.</strong>, Jiang, J., and Yang, L.: Dynamic Risk Assessment of Compound Hazards Based on VFS-IEM-IDM: A Case Study of Typhoon-Rainstorm Hazards in Shenzhen, China.<em>NHESS</em> 2022 | <a style="color: #447ec9" href="https://doi.org/10.5194/nhess-22-3271-2022">JCR 1</a>
 		<a style="color: #447ec9" href="https://github.com/GongWenwuu/VFS-IEM-IDM">Python</a>
 		<br> Huggins, T. J., E, F., Chen, K., <strong>Gong, W.</strong> and Yang, L.: Infrastructural Aspects of Rain-Related Cascading Disasters: A Systematic Literature Review. <em>IJERPH</em> 2020 | <a style="color: #447ec9" href="https://pubmed.ncbi.nlm.nih.gov/32709109/">JCR 2</a>
-		<br> <strong>Gong, W.</strong> Chen, K., Huggins, T.J. and Yang, L: Risk Evaluation Based on Variable Fuzzy Sets and Information Diffusion Method.
+		<br> <strong>Gong, W.</strong> et. al.: Risk Evaluation Based on Variable Fuzzy Sets and Information Diffusion Method.
 		<em> SCIRP</em> 2020 | <a style="color: #447ec9" href="https://www.scirp.org/journal/paperinformation.aspx?paperid=100204/">Pdf</a>
  - <strong>Patent</strong>
 		<br> <strong>Gong, W.</strong> and Yang, L: 一种级联灾害的动态风险评估方法、装置及服务器
