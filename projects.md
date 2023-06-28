@@ -8,12 +8,6 @@ title: Projects
 
 #### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
 
-<center>
-<img src="/images/Tensor Learning.png">
-</center>
-
-<br>
-
 
 #### [COVID-19 Intervention Analysis (2020-2021)](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf)
  - <strong>Paper</strong>
@@ -28,7 +22,7 @@ title: Projects
 #### [Dynamic Risk Assessment of Compound Hazards (MSc: 2018-2020)](https://GongWenwuu.github.io/mypaper/modeling/NHESS_2022.pdf)
 
 <center>
-<img src="/images/VFSIDM.png">
+<img src="/images/VFSIDM.png" class="floatpic" width="560" height="400">
 </center>
 
 - <strong>Paper</strong>
@@ -40,4 +34,3 @@ title: Projects
  - <strong>Patent</strong>
 		<br> <strong>Gong, W.</strong> and Yang, L: 一种级联灾害的动态风险评估方法、装置及服务器
 <br>
----
