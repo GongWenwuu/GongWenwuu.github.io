@@ -10,13 +10,13 @@ title: Projects
 
 
 ### [COVID-19 Intervention Analysis (2020-2021)](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf)
- - <strong>Paper</strong>
-		##### Meng F, <strong>Gong, W.</strong>, Liang J, Li X, Zeng Y, Yang L: Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S., and Singapore.
+##### <strong>Paper</strong>
+- Meng F, <strong>Gong, W.</strong>, Liang J, Li X, Zeng Y, Yang L: Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S., and Singapore.
 		<em>PLoS ONE</em> 2021 | <a style="color: #447ec9" href="https://pubmed.ncbi.nlm.nih.gov/33724996/">JCR 2</a>
 		<a style="color: #447ec9" href="https://github.com/GongWenwuu/SARIMA-COVID-19">Python</a>
   
  - <strong>Award</strong>
-		##### <a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/News/146.html">National Postgraduate Statistical Modeling Competition</a>
+		<a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/News/146.html">National Postgraduate Statistical Modeling Competition</a>
 <br>
 
 ### [Dynamic Risk Assessment of Compound Hazards (MSc: 2018-2020)](https://GongWenwuu.github.io/mypaper/modeling/NHESS_2022.pdf)
