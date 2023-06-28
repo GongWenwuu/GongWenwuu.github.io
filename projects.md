@@ -7,7 +7,7 @@ title: Projects
 # Research Projects
 
 ### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
-- [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/AMM_2023.pdf),**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>Applied Mathematical Modeling</em> 2023 | <a style="color: #447ec9" href="https://github.com/GongWenwuu/ARD">JCR 1</a><em>.
+- [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/AMM_2023.pdf),**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>Applied Mathematical Modeling</em> 2023 | <a style="color: #447ec9" href="https://github.com/GongWenwuu/ARD">JCR 1</a><em>
 
 ### [COVID-19 Intervention Analysis (2020-2021)](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf)
 #### Paper
