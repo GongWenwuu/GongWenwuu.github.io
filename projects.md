@@ -9,7 +9,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 ### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
 
-##### [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/AMM_2023.pdf)
+##### - [Accurate Regularized Tucker Decomposition for Image Restoration](https://github.com/GongWenwuu/ARTD.git)
 <center>
 <img src="/images/ARTD.png">
 </center>
