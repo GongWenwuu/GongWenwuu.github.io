@@ -7,16 +7,16 @@ title: Projects
 # Research Projects
 P.S., click the hyperlink title to access the source.<br>
 
-### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
+## [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
 
-##### - [Accurate Regularized Tucker Decomposition for Image Restoration](https://github.com/GongWenwuu/ARTD.git)
+##### [Accurate Regularized Tucker Decomposition for Image Restoration](https://github.com/GongWenwuu/ARTD.git)
 <center>
 <img src="/images/ARTD.png" class="floatpic" width="500" height="200">
 </center>
 <br>
 
 
-### [COVID-19 Intervention Analysis (2020-2021)]
+## [COVID-19 Intervention Analysis (2020-2021)]
 
 #### Paper
 - Meng F, **Gong, W.**, Liang J, Li X, Zeng Y, Yang L: [Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S., and Singapore](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf). <em>PLoS ONE</em> 2021.
@@ -25,7 +25,7 @@ P.S., click the hyperlink title to access the source.<br>
 - National Postgraduate Statistical Modeling Competition
 <br>
 
-### [Dynamic Risk Assessment of Compound Hazards (MSc: 2018-2020)]
+## [Dynamic Risk Assessment of Compound Hazards (MSc: 2018-2020)]
 
 #### Paper
 
