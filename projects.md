@@ -11,11 +11,9 @@ P.S., click the hyperlink title to access the source.<br>
 
 ##### [Accurate Regularized Tucker Decomposition for Image Restoration](https://github.com/GongWenwuu/ARTD.git)
 <div>
-<img src="/images/ARTD.png" class="floatpic" width="500" height="200">
+<img src="/images/ARTD.png" class="floatpic" width="400" height="150">
 </div>
 <br>
-
-##### [Accurate Regularized Tucker Decomposition for Image Restoration](https://github.com/GongWenwuu/ARTD.git)
 
 ### [COVID-19 Intervention Analysis (2020-2021)]
 
