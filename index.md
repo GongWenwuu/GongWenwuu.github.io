@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://GongWenwuu.github.io/profile.jpg" class="floatpic" width="360" height="480">
+<img src="https://GongWenwuu.github.io/profile.jpg" class="floatpic" width="350" height="400">
 
 Here is **Wenwu GONG (龚文武 in Chinese)**.
 
@@ -26,7 +26,7 @@ I am a Ph.D. student at the <a href="https://stat-ds.sustech.edu.cn/"> Departmen
 
 ## Research Interests
 
-- Low-rank Tensor Learning
+- <a href="https://github.com/GongWenwuu/LRTL_Methods_Applications.git"> Low-rank Tensor Learning </a>
 - Spatiotemporal Traffic Data Modeling
 - Inverse Problems in Multi-Dimensional Imaging
 
