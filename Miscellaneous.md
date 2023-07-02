@@ -16,9 +16,9 @@ title: Miscellaneous
 ## Hobbies
 #### Football
 <div class="third">
-<img src="/images/f1.jpg">
-<img src="/images/f2.jpg">
+<img src="/images/f1.png">
 </div>
+
 <br> Hala, Madrid!
 
 #### Tennis
