@@ -11,7 +11,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 ##### [Accurate Regularized Tucker Decomposition for Image Restoration](https://github.com/GongWenwuu/ARTD.git)
 <div>
-<img src="/images/ARTD.png" class="floatpic" width="400" height="150">
+<img src="/images/ARTD.png" class="floatpic" width="400" height="120">
 </div>
 
 <br>
