@@ -13,6 +13,7 @@ P.S., click the hyperlink title to access the source.<br>
 <div>
 <img src="/images/ARTD.png" class="floatpic" width="400" height="150">
 </div>
+
 <br>
 
 ### [COVID-19 Intervention Analysis (2020-2021)]
