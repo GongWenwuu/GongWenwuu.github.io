@@ -9,10 +9,11 @@ P.S., click the hyperlink title to access the source.<br>
 
 ### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
 
-##### [Accurate Regularized Tucker Decomposition for Image Restoration](https://github.com/GongWenwuu/ARTD.git)
+##### [Image restoration: ARTD](https://github.com/GongWenwuu/ARTD.git)
 <div>
-<img src="/images/ARTD.png" class="floatpic" width="400" height="150">
+<img src="/images/ARTD.png" width="400" height="150">
 </div>
+
 <br>
 
 ### [COVID-19 Intervention Analysis (2020-2021)]
