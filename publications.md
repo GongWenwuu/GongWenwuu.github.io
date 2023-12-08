@@ -14,11 +14,11 @@ Latest Update: 28th July 2023&nbsp;
 		<em>Applied Mathematical Modeling</em> 2023 | <a style="color: #447ec9" href="https://www.sciencedirect.com/journal/applied-mathematical-modelling">JCR 1</a>
 		<a style="color: #447ec9" href="https://github.com/GongWenwuu/ARTD">Matlab</a>
 
-- [Spatiotemporal Regularized Tucker Decomposition Approach for Traffic Data Imputation](https://GongWenwuu.github.io/mypaper/STRTD_ITS.pdf),**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>ArXiv</em> 2023 | <a style="color: #447ec9" Level A></a> <a style="color: #447ec9" href="https://github.com/GongWenwuu/LSPTD">Matlab</a>. 
+- [Spatiotemporal Regularized Tucker Decomposition Approach for Traffic Data Imputation](https://GongWenwuu.github.io/mypaper/STRTD_ITS.pdf),**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>ArXiv</em> 2023. 
 
 ## Conference Paper
 
-- **Wenwu Gong**, Zhejun Huang, Lili Yang:[LSPTD: Low-rank and spatiotemporal priors enhanced Tucker decomposition for internet traffic data imputation](https://GongWenwuu.github.io/mypaper/LSPTD.pdf), <em>ITSC 2023</em>.
+- **Wenwu Gong**, Zhejun Huang, Lili Yang: [LSPTD: Low-rank and spatiotemporal priors enhanced Tucker decomposition for internet traffic data imputation](https://GongWenwuu.github.io/mypaper/LSPTD.pdf), <em>ITSC 2023</em> | <a style="color: #447ec9" Level A></a> <a style="color: #447ec9" href="https://github.com/GongWenwuu/LSPTD">Matlab</a>.
 
 - [Enhanced low-rank and sparse Tucker decomposition for image completion],**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>ICASSP 2024<em>, Under Review.
 
