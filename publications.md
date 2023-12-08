@@ -19,7 +19,7 @@ Latest Update: 28th July 2023&nbsp;
 ## Conference Paper
 
 - **Wenwu Gong**, Zhejun Huang, Lili Yang: [LSPTD: Low-rank and spatiotemporal priors enhanced Tucker decomposition for internet traffic data imputation](https://GongWenwuu.github.io/mypaper/LSPTD.pdf).
-  		 <em>ITSC 2023</em> | <a style="color: #447ec9" href="https://ieee-itss.org/event/itsc2023/"> Level A </a>
+  		 <em>ITSC 2023</em> | <a style="color: #447ec9" href="https://ieee-itss.org/event/itsc2023/">Level A</a> 
   		 <a style="color: #447ec9" href="https://github.com/GongWenwuu/LSPTD">Matlab</a>.
 
 - [Enhanced low-rank and sparse Tucker decomposition for image completion],**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>ICASSP 2024<em>, Under Review.
