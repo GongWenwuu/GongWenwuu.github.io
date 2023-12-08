@@ -14,7 +14,7 @@ P.S., click the hyperlink title to access the source.<br>
 <img src="/images/ARTD.png" width="400" height="150">
 </div>
 
-##### [Traffic imputation: STRTD](https://GongWenwuu.github.io/mypaper/STRTD_ITS.pdf)
+##### [Traffic data imputation: STRTD](https://GongWenwuu.github.io/mypaper/STRTD_ITS.pdf)
 <div>
 <img src="/images/STRTD.jpg" width="400" height="150">
 </div>
