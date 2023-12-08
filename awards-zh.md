@@ -16,7 +16,7 @@ title: Awards-zh
 - 2020/09 获得南方科技大学创新实践基金资助 (人民币 82000)
 
 ## 社会服务
-- 2002-2022 南方科技大学志愿者服务
+- 2021-2023 南方科技大学志愿者服务
 
 
-更新时间：2023/06/28&nbsp;   [English Version (英文)](https://GongWenwuu.github.io/awards/)
+更新时间：2023/11/28&nbsp;   [English Version (英文)](https://GongWenwuu.github.io/awards/)
