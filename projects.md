@@ -14,6 +14,10 @@ P.S., click the hyperlink title to access the source.<br>
 <img src="/images/ARTD.png" width="400" height="150">
 </div>
 
+##### [Traffic imputation: STRTD]
+<div>
+<img src="/images/STRTD.png" width="400" height="150">
+</div>
 <br>
 
 ### [COVID-19 Intervention Analysis (2020-2021)]
