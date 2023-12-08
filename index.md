@@ -40,7 +40,7 @@ My current research focuses on **Low-rank Tensor Learning** and its applications
 ## News and Updates
 
 - **July 2023：**One conference paper has been accepted by <a href="https://2023.ieee-itsc.org/"> ITSC 2023 </a>.
-- **June 2023: **Happy to be sponsored by the International Training program for outstanding young scientific researchers of Guangdong Province.
+- **June 2023：**Happy to be sponsored by the International Training program for outstanding young scientific researchers of Guangdong Province.
 - **June 2023：**One paper has been accepted by <a href="https://www.sciencedirect.com/journal/applied-mathematical-modelling"> AMM</a>
 
 <br>
