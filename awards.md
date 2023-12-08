@@ -24,4 +24,4 @@ title: Awards
 - Aug 2021：Volunteer of **<a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/portal/meeting/index/id/6?lang=en-us">2021 Shenzhen International Conference on Biostatistics </a>**
 - Dec 2020：Volunteer of **<a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/portal/meeting/index/id/6?lang=en-us">2020 Shenzhen International Conference on Frontiers of Statistics and Data Science </a>**
   
-Lastest Update: 28th June 2023 &nbsp; [中文 (Chinese Version)](https://GongWenwuu.github.io/awards-zh/)
+Lastest Update: 28th November 2023 &nbsp; [中文 (Chinese Version)](https://GongWenwuu.github.io/awards-zh/)
