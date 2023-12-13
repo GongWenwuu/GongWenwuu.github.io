@@ -22,7 +22,7 @@ Latest Update: 28th November 2023&nbsp;
   		 <em>ITSC 2023</em> | <a style="color: #447ec9" href="https://ieee-itss.org/event/itsc2023/">Level A</a> 
   		 <a style="color: #447ec9" href="https://github.com/GongWenwuu/LSPTD">Matlab</a>.
 
-- **Wenwu Gong**, Zhejun Huang, Lili Yang: [Enhanced low-rank and sparse Tucker decomposition for image completion](https://GongWenwuu.github.io/mypaper/ELRSTD.pdf)
+- **Wenwu Gong**, Zhejun Huang, Lili Yang: [Enhanced low-rank and sparse Tucker decomposition for image completion](https://GongWenwuu.github.io/mypaper/ELRSTD.pdf).
   		<em>ICASSP 2024<em> | <a style="color: #447ec9" href="https://2024.ieeeicassp.org/"> CCF B </a> 
   		<a style="color: #447ec9" href="https://github.com/GongWenwuu/ELRSTD">Matlab</a>.
 
