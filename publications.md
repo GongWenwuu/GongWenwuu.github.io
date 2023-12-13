@@ -30,6 +30,6 @@ Latest Update: 28th November 2023&nbsp;
 
 ## Working Manuscript
 
-- ELST: A Tucker-based Prior Modeling Framework for Tensor Completion. **Wenwu Gong**.
+- ELST: A Tucker-based Prior Modeling Framework for Tensor Completion. **Wenwu Gong**. Under Review.
 
 <br>
