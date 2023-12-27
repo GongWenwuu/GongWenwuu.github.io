@@ -4,7 +4,7 @@ permalink: /Miscellaneous/index.html
 title: Miscellaneous
 ---
 
-## Teaching & Tutorial
+## Tutorial
 
 #### TA
 - Introduction to Tensor Decomposition, <a style="color: #447ec9" href=" https://github.com/GongWenwuu/TD-course"> <em>TD</em> </a>.
