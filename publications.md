@@ -23,7 +23,7 @@ Latest Update: 28th January 2024&nbsp;
   		 <a style="color: #447ec9" href="https://github.com/GongWenwuu/LSPTD">Matlab</a>.
 
 - **Wenwu Gong**, Zhejun Huang, Lili Yang: [Enhanced low-rank and sparse Tucker decomposition for image completion](https://GongWenwuu.github.io/mypaper/ELRSTD.pdf).
-  		<em>ICASSP 2024<em> | <a style="color: #447ec9" href="https://2024.ieeeicassp.org/"> CCF B </a> 
+  		<em>ICASSP 2024<em> | <a style="color: #447ec9" href="https://ieeexplore.ieee.org/document/10448445"> CCF B </a> 
   		<a style="color: #447ec9" href="https://github.com/GongWenwuu/ELRSTD">Matlab</a>.
 
 ---
