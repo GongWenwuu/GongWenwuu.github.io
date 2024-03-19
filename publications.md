@@ -31,5 +31,7 @@ Latest Update: 28th January 2024&nbsp;
 ## Working Manuscript
 
 - ELST: A Tucker-based Prior Modeling Framework for Tensor Completion. **Wenwu Gong**. Under Review.
+- Laplacian­-based Tucker decomposition for spatiotemporal traffic data imputation. 2024. **Wenwu Gong**. 
+- Fused Tucker decomposition with tensor gradient for low­rank tensor completion. 2024. **Wenwu Gong**. 
 
 <br>
