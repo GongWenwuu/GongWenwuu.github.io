@@ -23,7 +23,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 ##### [Tucker-based TC models and algorithms for low-rank tensor completion]
 <div>
-<img src="/images/Tucker.jpg" width="400" height="150">
+<img src="/images/Tucker.jpg" width="500" height="300">
 </div>
 <br>
 
