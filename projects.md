@@ -9,12 +9,18 @@ P.S., click the hyperlink title to access the source.<br>
 
 ### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
 
-##### [Image restoration: ARTD](https://github.com/GongWenwuu/ARTD.git)
+##### [Visual data restoration: ARTD](https://github.com/GongWenwuu/ARTD.git)
 <div>
-<img src="/images/ARTD.png" width="400" height="150">
+<img src="/images/ARTD.jpg" width="400" height="150">
 </div>
 
-##### [Traffic data imputation: STRTD](https://GongWenwuu.github.io/mypaper/STRTD_ITS.pdf)
+##### [Traffic data imputation: STRTD](https://github.com/GongWenwuu/STRTD.git)
+<div>
+<img src="/images/STRTD.jpg" width="400" height="150">
+</div>
+<br>
+
+##### [Tucker-based TC models and algorithms for low-rank tensor completion]
 <div>
 <img src="/images/STRTD.jpg" width="400" height="150">
 </div>
