@@ -16,6 +16,7 @@ I am a Ph.D. student at the <a href="https://stat-ds.sustech.edu.cn/"> Departmen
 
 **<font color='red'>[Highlight]</font> I am planning to do a visiting postgraduate internship (MATH) at HKUST in Oct..** 
 
+- **Oct 2023 - Feb 2024:** <a href="https://gs.sustech.edu.cn/#/common/detail?current_id=8&id=127&article_id=3077"> Visiting Postgraduate Internship (MATH) at HKUST</a> 
 - **Sep 2020 - June 2024:** <a href="https://stat-ds.sustech.edu.cn/"> Department of Statistics and Data Science, SUSTech</a> (Ph.D.)
 - **Sep 2018 - June 2020:** <a href="http://math.hit.edu.cn/"> School of Mathematics, HIT</a> (MSc)
 - **Sep 2014 - June 2018:** <a href="http://smcs.ncu.edu.cn/"> School of Mathematics and Computer Sciences, NCU</a> (BSc)
