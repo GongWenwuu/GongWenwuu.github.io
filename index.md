@@ -38,6 +38,7 @@ My current research focuses on **Low-rank Tensor Learning** and its applications
 
 ## News and Updates
 
+- **May 2024：**I successfully passed my PhD research defense. If you are interested in my PhD research, please review the <a href="https://2024.ieeeicassp.org/"> slides </a>. 
 - **Dec. 2023：**One conference paper has been accepted by <a href="https://2024.ieeeicassp.org/"> ICASSP 2024 </a>.
 - **July 2023：**One conference paper has been accepted by <a href="https://2023.ieee-itsc.org/"> ITSC 2023 </a>.
 - **June 2023：**Happy to be sponsored by the International Training program for outstanding young scientific researchers of Guangdong Province.
