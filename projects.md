@@ -13,17 +13,18 @@ P.S., click the hyperlink title to access the source.<br>
 </div>
 <br>
 
-##### [Visual data restoration: ARTD](https://github.com/GongWenwuu/ARTD.git)
-
-##### [Traffic data imputation: STRTD](https://github.com/GongWenwuu/STRTD.git)
-
-##### [Tucker-based TC models](https://github.com/GongWenwuu/ELST.git)
+#### Paper
+- [Low-Rank autoregressive Tucker decomposition for traffic data imputation](https://GongWenwuu.github.io/mypaper/LATD_2024.pdf). <em>ICAC 2024<em>
+- [BACP: Bayesian augmented CP factorization for traffic data imputation](https://GongWenwuu.github.io/mypaper/BACP_2024.pdf). <em>ICIC 2024<em>
+- [Enhanced low-rank and sparse Tucker decomposition for image completion](https://GongWenwuu.github.io/mypaper/ELRSTD_2024.pdf). <em>ICASSP 2024<em>
+- [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/ARTD_2023.pdf). <em>Applied Mathematical Modeling</em> 2023
+- [LSPTD: Low-rank and spatiotemporal priors enhanced Tucker decomposition for internet traffic data imputation](https://GongWenwuu.github.io/mypaper/LSPTD_2023.pdf). <em>ITSC 2023</em>
 
 
 ### [COVID-19 Intervention Analysis (2020-2021)]
 
 #### Paper
-- Meng F, **Gong, W.**, Liang J, Li X, Zeng Y, Yang L: [Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S., and Singapore](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf). <em>PLoS ONE</em> 2021.
+- [Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the U.S., and Singapore](https://GongWenwuu.github.io/mypaper/modeling/PLOS-ONE_2021.pdf). <em>PLoS ONE</em> 2021.
   
 #### Award
 - National Postgraduate Statistical Modeling Competition (Second Prize)
@@ -33,7 +34,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 #### Paper
 
-- **Gong, W.**, Jiang, J., and Yang, L.: [Dynamic Risk Assessment of Compound Hazards Based on VFS-IEM-IDM: A Case Study of Typhoon-Rainstorm Hazards in Shenzhen, China](https://GongWenwuu.github.io/mypaper/modeling/NHESS_2022.pdf). <em>NHESS</em> 2022.
-- Huggins, T. J., E, F., Chen, K., **Gong, W.** and Yang, L.: [Infrastructural Aspects of Rain-Related Cascading Disasters: A Systematic Literature Review](https://GongWenwuu.github.io/mypaper/modeling/ijerph_2020.pdf). <em>IJERPH</em> 2020.
-- **Gong, W.**, Chen, K., Huggins, T. J. and Yang, L.: [Risk Evaluation Based on Variable Fuzzy Sets and Information Diffusion Method](https://GongWenwuu.github.io/mypaper/modeling/jamp_2020.pdf). <em>JAMP</em> 2020.
+- [Dynamic Risk Assessment of Compound Hazards Based on VFS-IEM-IDM: A Case Study of Typhoon-Rainstorm Hazards in Shenzhen, China](https://GongWenwuu.github.io/mypaper/modeling/NHESS_2022.pdf). <em>NHESS</em> 2022.
+- [Infrastructural Aspects of Rain-Related Cascading Disasters: A Systematic Literature Review](https://GongWenwuu.github.io/mypaper/modeling/ijerph_2020.pdf). <em>IJERPH</em> 2020.
+- [Risk Evaluation Based on Variable Fuzzy Sets and Information Diffusion Method](https://GongWenwuu.github.io/mypaper/modeling/jamp_2020.pdf). <em>JAMP</em> 2020.
 <br>
