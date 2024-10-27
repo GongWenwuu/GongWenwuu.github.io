@@ -21,16 +21,16 @@ Latest Update: 18th March 2024&nbsp;
 - Jiaxin Lu, **Wenwu Gong**, Lili Yang: [Low-Rank autoregressive Tucker decomposition for traffic data imputation](https://GongWenwuu.github.io/mypaper/LATD_2024.pdf).
   		<em>ICAC 2024<em> | <a style="color: #447ec9" href="https://doi.org/10.1109/ICAC61394.2024.10718844"> EI </a>
 
-- Rongping Huang, **Wenwu Gong**, Jiaxin Lu, Lili Yang: [Low-Rank autoregressive Tucker decomposition for traffic data imputation](https://GongWenwuu.github.io/mypaper/BACP_2024.pdf).
+- Rongping Huang, **Wenwu Gong**, Jiaxin Lu, Lili Yang: [BACP: Bayesian augmented CP factorization for traffic data imputation](https://GongWenwuu.github.io/mypaper/BACP_2024.pdf).
   		<em>ICIC 2024<em> | <a style="color: #447ec9" href="https://doi.org/10.1007/978-981-97-5618-6_10"> CCF C </a>
-  
-- **Wenwu Gong**, Zhejun Huang, Lili Yang: [BACP: Bayesian augmented CP factorization for traffic data imputation](https://GongWenwuu.github.io/mypaper/LSPTD_2023.pdf).
-  		 <em>ITSC 2023</em> | <a style="color: #447ec9" href="https://ieeexplore.ieee.org/document/10422071">Level A</a> 
-  		 <a style="color: #447ec9" href="https://github.com/GongWenwuu/LSPTD">Matlab</a>.
 
 - **Wenwu Gong**, Zhejun Huang, Lili Yang: [Enhanced low-rank and sparse Tucker decomposition for image completion](https://GongWenwuu.github.io/mypaper/ELRSTD_2024.pdf).
   		<em>ICASSP 2024<em> | <a style="color: #447ec9" href="https://ieeexplore.ieee.org/document/10448445"> CCF B </a> 
   		<a style="color: #447ec9" href="https://github.com/GongWenwuu/ELRSTD">Matlab</a>.
+
+- **Wenwu Gong**, Zhejun Huang, Lili Yang: [LSPTD: Low-rank and spatiotemporal priors enhanced Tucker decomposition for internet traffic data imputation](https://GongWenwuu.github.io/mypaper/LSPTD_2023.pdf).
+  		 <em>ITSC 2023</em> | <a style="color: #447ec9" href="https://ieeexplore.ieee.org/document/10422071">Level A</a> 
+  		 <a style="color: #447ec9" href="https://github.com/GongWenwuu/LSPTD">Matlab</a>.
 ---
 
 ## Working Manuscript
