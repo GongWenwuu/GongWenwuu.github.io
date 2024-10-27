@@ -7,25 +7,18 @@ title: Projects
 # Research Projects
 P.S., click the hyperlink title to access the source.<br>
 
-### [Low-rank Tensor Learning (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
-
-##### [Visual data restoration: ARTD](https://github.com/GongWenwuu/ARTD.git)
-<div>
-<img src="/images/ARTD.jpg" width="400" height="150">
-</div>
-<br>
-
-##### [Traffic data imputation: STRTD](https://github.com/GongWenwuu/STRTD.git)
-<div>
-<img src="/images/STRTD.jpg" width="400" height="150">
-</div>
-<br>
-
-##### [Tucker-based TC models and algorithms for low-rank tensor completion]
+### [Tucker-based optimization models and algorithms for low-rank tensor completion (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
 <div>
 <img src="/images/Tucker.jpg" width="500" height="300">
 </div>
 <br>
+
+##### [Visual data restoration: ARTD](https://github.com/GongWenwuu/ARTD.git)
+
+##### [Traffic data imputation: STRTD](https://github.com/GongWenwuu/STRTD.git)
+
+##### [Tucker-based TC models](https://github.com/GongWenwuu/ELST.git)
+
 
 ### [COVID-19 Intervention Analysis (2020-2021)]
 
