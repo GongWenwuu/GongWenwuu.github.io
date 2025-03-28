@@ -19,6 +19,8 @@ Latest Update: 18th October 2024&nbsp;
 
 ## Conference Paper
 
+- Lang Mo, **Wenwu Gong**, Lili Yang: [Overlapping tensor train completion with TV regularization for image reconstruction](https://GongWenwuu.github.io/mypaper/OTTV_2024.pdf).
+  		<em>ICCBD+AI 2024<em> | <a style="color: #447ec9" href="https://doi.org/10.1109/ICCBD-AI65562.2024.00069"> EI </a>
 - Jiaxin Lu, **Wenwu Gong**, Lili Yang: [Low-Rank autoregressive Tucker decomposition for traffic data imputation](https://GongWenwuu.github.io/mypaper/LATD_2024.pdf).
   		<em>ICAC 2024<em> | <a style="color: #447ec9" href="https://doi.org/10.1109/ICAC61394.2024.10718844"> EI </a>
 
