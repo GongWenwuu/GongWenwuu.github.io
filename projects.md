@@ -15,6 +15,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 #### Paper
 - [Low-Rank bi-directional neighbor Tucker decomposition for traffic data imputation](https://GongWenwuu.github.io/mypaper/LBNTD_2025.pdf). <em>TRB 2025<em>
+- [Overlapping Tensor-train completion with TV regularization for image reconstruction](https://GongWenwuu.github.io/mypaper/OTTV_2024.pdf). <em>ICCBD+AI 2024<em>
 - [Low-Rank autoregressive Tucker decomposition for traffic data imputation](https://GongWenwuu.github.io/mypaper/LATD_2024.pdf). <em>ICAC 2024<em>
 - [BACP: Bayesian augmented CP factorization for traffic data imputation](https://GongWenwuu.github.io/mypaper/BACP_2024.pdf). <em>ICIC 2024<em>
 - [Enhanced low-rank and sparse Tucker decomposition for image completion](https://GongWenwuu.github.io/mypaper/ELRSTD_2024.pdf). <em>ICASSP 2024<em>
