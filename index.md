@@ -8,7 +8,7 @@ layout: page
 
 Here is **Wenwu GONG (龚文武 in Chinese)**.
 
-I am currently a Postdoctoral at the <a href="https://stat-ds.sustech.edu.cn/"> Department of Statistics and Data Science, SUSTech</a>, Shenzhen, where I work on **low-rank tensor learning** and **nonconvex optimization**. 
+I am currently a Postdoctoral at the <a href="https://stat-ds.sustech.edu.cn/"> Department of Statistics and Data Science, SUSTech</a>, Shenzhen, where I work on **low-rank tensor learning** and **interpretable neural networks**. 
 
 <br>
 
@@ -27,10 +27,10 @@ I am currently a Postdoctoral at the <a href="https://stat-ds.sustech.edu.cn/"> 
 ## Research Interests
 
 - <a href="https://github.com/GongWenwuu/LRTL_Methods_Applications.git"> Low-rank Tensor Learning </a>
-- Inexact Nonconvex Optimization
 - Algorithmic and Mathematical Modeling of Data Science
+- Multimodal learning
 
-My current research focuses on **Nonlinear Constrained Programs** and **Multimodal Time Series Modeling**. 
+My current research focuses on exploring **hybrid frameworks that combine physics-based models with data-driven techniques** and **Multimodal Time Series Modeling**. 
 
 <br>
 
@@ -38,6 +38,7 @@ My current research focuses on **Nonlinear Constrained Programs** and **Multimod
 
 ## News and Updates
 
+- **July 2025：**Happy to be sponsored by the China Postdoctoral Science Foundation, 模型和数据双驱动的低秩张量分解研究.
 - **Sep 2024：**Happy to be sponsored by the SUSTech Presidential Postdoctoral Fellowship.
 - **May 2024：**I successfully passed my PhD research defense. If you are interested in my PhD research, please review the <a href="https://GongWenwuu.github.io/mypaper/thesis/Tucker-TC.pdf"> slides </a>. 
 - **Dec. 2023：**One conference paper has been accepted by <a href="https://2024.ieeeicassp.org/"> ICASSP 2024 </a>.
