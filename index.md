@@ -16,7 +16,7 @@ I am currently a Postdoctoral at the <a href="https://stat-ds.sustech.edu.cn/"> 
 
 - **Sep 2024:** Postdoctoral, SUSTech 
 - **Oct 2023 - Feb 2024:** Visiting Postgraduate Internship (MATH) at HKUST 
-- **Sep 2020 - June 2024:** <a href="https://stat-ds.sustech.edu.cn/"> Department of Statistics and Data Science, SUSTech</a> (Ph.D.)
+- **Sep 2020 - June 2024:** <a href="https://stat-ds.sustech.edu.cn/"> Department of Statistics and Data Science, SUSTech</a> (Ph.D)
 - **Sep 2018 - June 2020:** <a href="http://math.hit.edu.cn/"> School of Mathematics, HIT</a> (MSc)
 - **Sep 2014 - June 2018:** <a href="http://smcs.ncu.edu.cn/"> School of Mathematics and Computer Sciences, NCU</a> (BSc)
 
