@@ -9,7 +9,7 @@ title: Publications
 Latest Update: 18th October 2025&nbsp; 
 
 ## Journal Paper
-- **Wenwu Gong**, Zhejun Huang, Lili Yang: [TuckerAPP: A Novel Spatiotemporal Tucker Decomposition Approach for Traffic Imputation](https://GongWenwuu.github.io/mypaper/TuckerAPP_ITS.pdf).
+- **Wenwu Gong**, Zhejun Huang, Lili Yang: [TuckerAPP: A Novel Spatiotemporal Tucker Decomposition Approach for Traffic Imputation](https://GongWenwuu.github.io/mypaper/TuckerAPP_2025.pdf).
   		<em>Signal Processing</em> 2025 | <a style="color: #447ec9" href="https://www.sciencedirect.com/journal/signal-processing">JCR 2</a>
   		<a style="color: #447ec9" href="https://github.com/GongWenwuu/TuckerAPP">Matlab</a>
 		
