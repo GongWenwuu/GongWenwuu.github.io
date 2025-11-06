@@ -38,6 +38,7 @@ My current research focuses on exploring **hybrid frameworks that combine physic
 
 ## News and Updates
 
+- **Nov 2025：**One paper has been accepted by <a href="https://www.sciencedirect.com/journal/signal-processing"> SP</a>
 - **July 2025：**Happy to be sponsored by the China Postdoctoral Science Foundation, 模型和数据双驱动的低秩张量分解研究.
 - **Sep 2024：**Happy to be sponsored by the SUSTech Presidential Postdoctoral Fellowship.
 - **May 2024：**I successfully passed my PhD research defense. If you are interested in my PhD research, please review the <a href="https://GongWenwuu.github.io/mypaper/thesis/Tucker-TC.pdf"> slides </a>. 
