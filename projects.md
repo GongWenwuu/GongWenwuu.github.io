@@ -14,6 +14,7 @@ P.S., click the hyperlink title to access the source.<br>
 <br>
 
 #### Paper
+- [TuckerAPP: A novel sSpatiotemporal Tucker decomposition approach for traffic imputation](https://GongWenwuu.github.io/mypaper/TuckerAPP_2025.pdf). <em>SP 2025</em>
 - [Low-Rank bi-directional neighbor Tucker decomposition for traffic data imputation](https://GongWenwuu.github.io/mypaper/LBNTD_2025.pdf). <em>TRB 2025<em>
 - [Overlapping Tensor-train completion with TV regularization for image reconstruction](https://GongWenwuu.github.io/mypaper/OTTV_2024.pdf). <em>ICCBD+AI 2024<em>
 - [Low-Rank autoregressive Tucker decomposition for traffic data imputation](https://GongWenwuu.github.io/mypaper/LATD_2024.pdf). <em>ICAC 2024<em>
