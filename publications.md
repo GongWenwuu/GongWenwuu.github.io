@@ -6,16 +6,16 @@ title: Publications
 
 # Publications
 
-Latest Update: 18th October 2024&nbsp; 
+Latest Update: 18th October 2025&nbsp; 
 
 ## Journal Paper
-
+- **Wenwu Gong**, Zhejun Huang, Lili Yang: [TuckerAPP: A Novel Spatiotemporal Tucker Decomposition Approach for Traffic Imputation](https://GongWenwuu.github.io/mypaper/TuckerAPP_ITS.pdf).
+  		<em>Signal Processing</em> 2025 | <a style="color: #447ec9" href="https://www.sciencedirect.com/journal/signal-processing">JCR 2</a>
+  		<a style="color: #447ec9" href="https://github.com/GongWenwuu/TuckerAPP">Matlab</a>
+		
 - **Wenwu Gong**, Zhejun Huang, Lili Yang: [Accurate Regularized Tucker Decomposition for Image Restoration](https://GongWenwuu.github.io/mypaper/ARTD_2023.pdf).
 		<em>Applied Mathematical Modeling</em> 2023 | <a style="color: #447ec9" href="https://www.sciencedirect.com/journal/applied-mathematical-modelling">JCR 1</a>
 		<a style="color: #447ec9" href="https://github.com/GongWenwuu/ARTD">Matlab</a>
-
-- [Spatiotemporal Regularized Tucker Decomposition Approach for Traffic Data Imputation](https://GongWenwuu.github.io/mypaper/STRTD_ITS.pdf),**Wenwu Gong**, Zhejun Huang, Lili Yang. <em>ArXiv</em> 2023.
-  		<a style="color: #447ec9" href="https://github.com/GongWenwuu/STRTD">Matlab</a>
 
 ## Conference Paper
 
@@ -34,11 +34,5 @@ Latest Update: 18th October 2024&nbsp;
 - **Wenwu Gong**, Zhejun Huang, Lili Yang: [LSPTD: Low-rank and spatiotemporal priors enhanced Tucker decomposition for internet traffic data imputation](https://GongWenwuu.github.io/mypaper/LSPTD_2023.pdf).
   		 <em>ITSC 2023</em> | <a style="color: #447ec9" href="https://ieeexplore.ieee.org/document/10422071">Level A</a> 
   		 <a style="color: #447ec9" href="https://github.com/GongWenwuu/LSPTD">Matlab</a>.
-
-## Working Manuscript
-
-- ELST: A Tucker-based Prior Modeling Framework for Tensor Completion. **Wenwu Gong**. Under Review.
-- Laplacian­-based Tucker decomposition for spatiotemporal traffic data imputation. 2024. **Wenwu Gong**. 
-- Fused Tucker decomposition with tensor gradient for low­rank tensor completion. 2024. **Wenwu Gong**. 
 
 <br>
