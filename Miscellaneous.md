@@ -23,7 +23,7 @@ title: Miscellaneous
 
 #### Tennis
 <div class="third">
-<img src="/images/t1.png">
+<img src="/images/t1.jpg">
 </div>
 
 
