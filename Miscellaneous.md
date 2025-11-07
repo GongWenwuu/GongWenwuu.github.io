@@ -22,5 +22,8 @@ title: Miscellaneous
 <br> Hala, Madrid!
 
 #### Tennis
+<div class="third">
+<img src="/images/t1.png">
+</div>
 
 
