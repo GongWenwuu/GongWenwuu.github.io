@@ -7,7 +7,7 @@ title: Projects
 # Research Projects
 P.S., click the hyperlink title to access the source.<br>
 
-### [Tucker-based optimization models and algorithms for low-rank tensor completion (Ph.D.: 2020-2024)](https://github.com/GongWenwuu/LRTL_Methods_Applications.git)
+### [Tucker-based Low-rank Tensor Completion (Ph.D.: 2020-2024)]
 <div>
 <img src="/images/Tucker.jpg" width="500" height="300">
 </div>
