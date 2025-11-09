@@ -6,12 +6,16 @@ title: Projects
 
 # Research Projects
 P.S., click the hyperlink title to access the source.<br>
+### [Interpretable Neural Network (2024-)]
 
-### [Tucker-based Low-rank Tensor Completion (Ph.D.: 2020-2024)]
-<div>
-<img src="/images/Tucker.jpg" width="500" height="300">
-</div>
-<br>
+
+### [Spatiotemporal Large Language Models (2024-)]
+
+
+### [Learning-guided Low-rank Tensor Representation (2023-)]
+
+
+### [Tucker-based Low-rank Tensor Completion (2020-2023)]
 
 #### Paper
 - [TuckerAPP: A novel sSpatiotemporal Tucker decomposition approach for traffic imputation](https://GongWenwuu.github.io/mypaper/TuckerAPP_2025.pdf). <em>SP 2025</em>
