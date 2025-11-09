@@ -28,7 +28,7 @@ I am currently a Postdoctoral at the <a href="https://stat-ds.sustech.edu.cn/"> 
 
 - Low-rank Tensor Representation
 - Algorithmic and Mathematical Modeling of Data Science
-- Multimodal Large Models in Spatiotemporal Data Mining
+- Multimodal Large Language Models in Spatiotemporal Data Mining
 
 My current research focuses on exploring **hybrid frameworks that combine prior-based models with data-driven techniques** and **multimodal time series modeling**. 
 
