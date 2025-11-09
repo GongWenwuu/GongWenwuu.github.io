@@ -26,11 +26,11 @@ I am currently a Postdoctoral at the <a href="https://stat-ds.sustech.edu.cn/"> 
 
 ## Research Interests
 
-- <a href="https://github.com/GongWenwuu/LRTL_Methods_Applications.git"> Low-rank Tensor Learning </a>
+- Low-rank Tensor Representation
 - Algorithmic and Mathematical Modeling of Data Science
 - Multimodal Large Models in Spatiotemporal Data Mining
 
-My current research focuses on exploring **hybrid frameworks that combine physics-based models with data-driven techniques** and **multimodal time series modeling**. 
+My current research focuses on exploring **hybrid frameworks that combine prior-based models with data-driven techniques** and **multimodal time series modeling**. 
 
 <br>
 
