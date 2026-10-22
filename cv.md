@@ -6,8 +6,8 @@ description: Curriculum vitae of Wenwu Gong (龚文武).
 ---
 
 <h1>Curriculum vitae</h1>
-<p class="lede">Wenwu Gong（龚文武） · <a href="mailto:gongww_math@ncu.edu.cn">gongww_math@ncu.edu.cn</a> · <a href="https://gongwenwuu.github.io/">gongwenwuu.github.io</a> · <a href="https://scholar.google.com/citations?user=H_NURZQAAAAJ">Google Scholar</a> · <a href="https://github.com/GongWenwuu">GitHub</a></p>
-<p>中文简介见 <a href="{{ '/awards-zh/' | relative_url }}">中文页</a>。</p>
+<p class="lede">Wenwu Gong (龚文武) · <a href="mailto:gongww_math@ncu.edu.cn">gongww_math@ncu.edu.cn</a> · <a href="https://gongwenwuu.github.io/">gongwenwuu.github.io</a> · <a href="https://scholar.google.com/citations?user=H_NURZQAAAAJ">Google Scholar</a> · <a href="https://github.com/GongWenwuu">GitHub</a></p>
+<p>中文简介见 <a href="{{ '/awards-zh/' | relative_url }}">中文页</a>.</p>
 
 <h2>Appointment</h2>
 <ul class="timeline">
@@ -16,7 +16,7 @@ description: Curriculum vitae of Wenwu Gong (龚文武).
 </ul>
 
 <h2>Research</h2>
-<p>Model-driven interpretable AI, low-rank tensor representation, and interdisciplinary mathematical modeling. The three lines are interpretable hybrids (neural differential equations and causal representation learning), Tucker and learning-guided tensor models (LRTuckerRep, gradient-regularized Tucker, ARTD, 3DeepRep, channel-aware tensor nuclear norm), and spatiotemporal recovery and forecasting (TuckerAPP, LSPTD, LBNTD, BACP, POI-LLM, STTFN, AWD-DPT).</p>
+<p>Model-driven interpretable AI, low-rank tensor representation, and interdisciplinary mathematical modeling. The three lines are interpretable hybrids (neural differential equations, ProME, CLEAR), Tucker and learning-guided tensor models (LRTuckerRep, GradientTD, ARTD, 3DeepRep, CATNN), and spatiotemporal recovery and forecasting (TuckerAPP, LSPTD, LBNTD, BACP, POI-LLM, STTFN, AWD-DPT).</p>
 
 <h2>Education</h2>
 <ul class="timeline">

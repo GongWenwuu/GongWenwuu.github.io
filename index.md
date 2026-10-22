@@ -32,8 +32,8 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
 <ul class="news">
   <li><time datetime="2026-09">2026</time> Joined the Department of Mathematics, School of Mathematics and Computer Science, Nanchang University, after the SUSTech Presidential Postdoctoral Fellowship.</li>
   <li><time datetime="2026">2026</time> <a href="https://doi.org/10.1016/j.neucom.2026.133160">3DeepRep</a> was published in <em>Neurocomputing</em> (co-first author).</li>
-  <li><time datetime="2026-03">Mar. 2026</time> Talk on learning-guided tensor nuclear norm for hyperspectral inpainting at the <a href="https://ipdl.xyz/gyhtgwty">International Conference on Image Processing and Deep Learning</a>, Chongqing.</li>
-  <li><time datetime="2026">2026</time> Three conference papers: channel-aware tensor nuclear norm at ICIP, and AWD-DPT and STTFN at ICIC.</li>
+  <li><time datetime="2026-03">Mar. 2026</time> Talk on CATNN at IPDL, Chongqing.</li>
+  <li><time datetime="2026">2026</time> Three conference papers: CATNN at ICIP, and AWD-DPT and STTFN at ICIC.</li>
   <li><time datetime="2025">2025</time> First prize, Innovative Application Award, Disaster Prevention Science and Technology Award (灾害防御科学技术奖).</li>
   <li><time datetime="2025">2025</time> <a href="https://doi.org/10.1109/ICCBDAI66607.2025.11388271">POI-LLM</a> received the Best Paper Award at ICCBD+AI. <a href="https://doi.org/10.1016/j.sigpro.2025.110383">TuckerAPP</a> appeared in <em>Signal Processing</em>.</li>
 </ul>
@@ -41,22 +41,16 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
 <h2>Selected papers</h2>
 <ol class="selected">
   <li class="pub">
-    <a class="pub-title" href="https://doi.org/10.1016/j.neucom.2026.133160">3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting</a>
-    <p class="pub-authors">Yunshan Li, <span class="cofirst">Wenwu Gong</span>, Chao Wang, Lili Yang</p>
-    <p class="pub-venue"><em>Neurocomputing</em>, 678:133160, 2026</p>
-    <p class="pub-tags"><span class="tag">JCR Q1</span><span class="tag">Co-first</span><a class="tag tag-link" href="https://doi.org/10.1016/j.neucom.2026.133160">DOI</a></p>
+    <a class="pub-title" href="https://doi.org/10.1016/j.neucom.2026.133160">3DeepRep</a>
+    <p class="pub-line">Yunshan Li, <span class="cofirst">Wenwu Gong</span>, Chao Wang, Lili Yang. <em>Neurocomputing</em>, 678:133160, 2026. <span class="tag">JCR Q1</span><a class="tag tag-link" href="https://doi.org/10.1016/j.neucom.2026.133160">DOI</a></p>
   </li>
   <li class="pub">
-    <a class="pub-title" href="https://doi.org/10.1016/j.sigpro.2025.110383">TuckerAPP: a novel spatiotemporal Tucker decomposition approach for traffic imputation</a>
-    <p class="pub-authors"><strong>Wenwu Gong</strong>, Zhejun Huang, Jiaxin Lu, Lili Yang</p>
-    <p class="pub-venue"><em>Signal Processing</em>, 240:110383, 2026</p>
-    <p class="pub-tags"><span class="tag">JCR Q2</span><a class="tag tag-link" href="{{ '/mypaper/TuckerAPP_2025.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/TuckerAPP">Code</a></p>
+    <a class="pub-title" href="https://doi.org/10.1016/j.sigpro.2025.110383">TuckerAPP</a>
+    <p class="pub-line"><strong>Wenwu Gong</strong>, Zhejun Huang, Jiaxin Lu, Lili Yang. <em>Signal Processing</em>, 240:110383, 2026. <span class="tag">JCR Q2</span><a class="tag tag-link" href="{{ '/mypaper/TuckerAPP_2025.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/TuckerAPP">Code</a></p>
   </li>
   <li class="pub">
-    <a class="pub-title" href="https://doi.org/10.1016/j.apm.2023.06.031">Accurate regularized Tucker decomposition for image restoration</a>
-    <p class="pub-authors"><strong>Wenwu Gong</strong>, Zhejun Huang, Lili Yang</p>
-    <p class="pub-venue"><em>Applied Mathematical Modelling</em>, 123:75–86, 2023</p>
-    <p class="pub-tags"><span class="tag">JCR Q1</span><span class="tag">CAS Q1</span><a class="tag tag-link" href="{{ '/mypaper/ARTD_2023.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/ARTD">Code</a></p>
+    <a class="pub-title" href="https://doi.org/10.1016/j.apm.2023.06.031">ARTD</a>
+    <p class="pub-line"><strong>Wenwu Gong</strong>, Zhejun Huang, Lili Yang. <em>Applied Mathematical Modelling</em>, 123:75–86, 2023. <span class="tag">JCR Q1</span><a class="tag tag-link" href="{{ '/mypaper/ARTD_2023.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/ARTD">Code</a></p>
   </li>
 </ol>
 <p><a href="{{ '/publications/' | relative_url }}">Full publication list</a></p>
@@ -67,13 +61,13 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
     <div class="card-body">
       <h3>Interpretable artificial intelligence</h3>
       <p>Hybrid models that keep a mathematical object inside the learner: neural differential equations, supported by the China Postdoctoral Science Foundation, and causal representation learning for imaging and recommendation.</p>
-      <p class="card-links"><a href="https://arxiv.org/abs/2608.13190">ProME</a><a href="https://arxiv.org/abs/2608.03647">Latent environments</a></p>
+      <p class="card-links"><a href="https://arxiv.org/abs/2608.13190">ProME</a><a href="https://arxiv.org/abs/2608.03647">CLEAR</a></p>
     </div>
   </article>
   <article class="card">
     <div class="card-body">
       <h3>Low-rank tensor representation</h3>
-      <p>Model-driven Tucker methods (LRTuckerRep, gradient-regularized Tucker, ARTD) and learning-guided self-supervised models (3DeepRep, channel-aware tensor nuclear norm) for multi-dimensional recovery.</p>
+      <p>Model-driven Tucker methods (LRTuckerRep, GradientTD, ARTD) and learning-guided self-supervised models (3DeepRep, CATNN) for multi-dimensional recovery.</p>
       <p class="card-links"><a href="https://doi.org/10.1016/j.neucom.2026.133160">3DeepRep</a><a href="https://arxiv.org/abs/2508.03755">LRTuckerRep</a><a href="https://doi.org/10.1016/j.apm.2023.06.031">ARTD</a></p>
     </div>
   </article>
@@ -91,7 +85,7 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
 <ul class="timeline">
   <li><span class="when">2026 –</span> Department of Mathematics, School of Mathematics and Computer Science, Nanchang University.</li>
   <li><span class="when">2024 – 2026</span> SUSTech Presidential Postdoctoral Fellow, Department of Statistics and Data Science.</li>
-  <li><span class="when">2020 – 2024</span> Ph.D. in Mathematics, Department of Statistics and Data Science, SUSTech. Low-rank tensor representation. <a href="{{ '/mypaper/thesis/Tucker-TC.pdf' | relative_url }}">Defense slides</a>.</li>
+  <li><span class="when">2020 – 2024</span> Ph.D. in Mathematics, Department of Statistics and Data Science, SUSTech. Low-rank tensor representation.</li>
   <li><span class="when">2018 – 2020</span> M.Sc. in Mathematics, School of Mathematics, Harbin Institute of Technology. Probability and mathematical statistics.</li>
   <li><span class="when">2014 – 2018</span> B.Sc. in Mathematics and Applied Mathematics, Nanchang University.</li>
 </ul>
@@ -117,8 +111,8 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
 
 <h2>Talks</h2>
 <ul class="talks">
-  <li><span class="when">Mar. 2026</span> Learning-guided tensor nuclear norm for hyperspectral image inpainting. <a href="https://ipdl.xyz/gyhtgwty">IPDL</a>, Chongqing.</li>
-  <li><span class="when">Nov. 2025</span> Low-rank Tucker representation for multi-dimensional data completion. <a href="https://dmip.org/index.html">DMIP</a>, Tokyo.</li>
-  <li><span class="when">Jan. 2025</span> Low-rank bi-directional neighbor Tucker decomposition for traffic imputation. <a href="https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/22779">TRB Annual Meeting</a>, Washington, D.C. <a href="{{ '/mypaper/LBNTD_2025.pdf' | relative_url }}">PDF</a>.</li>
-  <li><span class="when">Mar. 2024</span> Spatiotemporal Tucker decomposition for traffic imputation. Graduate Academic Forum, SUSTech. First prize.</li>
+  <li><span class="when">Mar. 2026</span> CATNN. IPDL, Chongqing.</li>
+  <li><span class="when">Nov. 2025</span> LRTuckerRep. DMIP, Tokyo.</li>
+  <li><span class="when">Jan. 2025</span> LBNTD. TRB Annual Meeting, Washington, D.C.</li>
+  <li><span class="when">Mar. 2024</span> TuckerAPP. Graduate Academic Forum, SUSTech. First prize.</li>
 </ul>
