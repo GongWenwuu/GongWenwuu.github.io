@@ -61,21 +61,18 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
     <div class="card-body">
       <h3>Interpretable artificial intelligence</h3>
       <p>Hybrid models that keep a mathematical object inside the learner: neural differential equations, supported by the China Postdoctoral Science Foundation, and causal representation learning for imaging and recommendation (<a href="{{ '/publications/' | relative_url }}#prome">ProME</a>, <a href="{{ '/publications/' | relative_url }}#clear">CLEAR</a>).</p>
-      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#prome">ProME</a><a href="{{ '/publications/' | relative_url }}#clear">CLEAR</a></p>
     </div>
   </article>
   <article class="card">
     <div class="card-body">
       <h3>Low-rank tensor representation</h3>
       <p>Model-driven Tucker methods (<a href="{{ '/publications/' | relative_url }}#lrtuckerre">LRTuckerRep</a>, <a href="{{ '/publications/' | relative_url }}#gradienttd">GradientTD</a>, <a href="{{ '/publications/' | relative_url }}#artd">ARTD</a>) and learning-guided self-supervised models (<a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a>, <a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a>) for multi-dimensional recovery.</p>
-      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a><a href="{{ '/publications/' | relative_url }}#lrtuckerre">LRTuckerRep</a><a href="{{ '/publications/' | relative_url }}#gradienttd">GradientTD</a><a href="{{ '/publications/' | relative_url }}#artd">ARTD</a><a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a></p>
     </div>
   </article>
   <article class="card">
     <div class="card-body">
       <h3>Spatiotemporal modeling</h3>
       <p>Prior-driven tensor recovery (<a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a>, <a href="{{ '/publications/' | relative_url }}#lsptd">LSPTD</a>, <a href="{{ '/publications/' | relative_url }}#lbntd">LBNTD</a>, <a href="{{ '/publications/' | relative_url }}#bacp">BACP</a>) and decoupled predictors (<a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a>, <a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a>, <a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a>) that separate long-term structure from short-term events.</p>
-      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a><a href="{{ '/publications/' | relative_url }}#lsptd">LSPTD</a><a href="{{ '/publications/' | relative_url }}#lbntd">LBNTD</a><a href="{{ '/publications/' | relative_url }}#bacp">BACP</a><a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a><a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a><a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a></p>
     </div>
   </article>
 </div>
