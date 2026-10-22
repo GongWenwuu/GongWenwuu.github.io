@@ -1,81 +1,40 @@
-title: Wenwu GONG
-tagline: Never put off what you can do today until tomorrow.
-description: Do your research! Develop a taste!
-#Comment out url when working locally to resolve base urls correctly
+title: Wenwu Gong
+description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang University. Interpretable AI, low-rank tensor representation, and spatiotemporal modeling.
 url: https://GongWenwuu.github.io
 
-# Owner/author information
 owner:
-  name: GongWenwu
-  avatar: master.jpg
-  # bio: SUSTech.jpg
-  email: 12031299@mail.sustech.edu.cn
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: 
-  # facebook: 
+  name: Wenwu Gong
+  avatar: profile.png
+  email: gongww@sustech.edu.cn
   github: GongWenwuu
-  # linkedin: 
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # instagram: 
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
+  scholar: https://scholar.google.com/citations?user=H_NURZQAAAAJ
+  orcid: https://orcid.org/0000-0002-8019-0582
 
-# Analytics and webmaster tools stuff goes here
-# https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify: ""
-
-# Links to include in top navigation
-# For external links add external: true
 links:
-  - title: About Me
+  - title: About
     url: /
-  - title: Resume
-    url: /file/CV.pdf
   - title: Publications
     url: /publications/
-  - title: Projects
+  - title: Research
     url: /projects/
   - title: Awards
     url: /awards/
-  - title: Miscellaneous
-    url: /Miscellaneous/
+  - title: CV
+    url: /cv/
+  - title: 中文
+    url: /awards-zh/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Shanghai
 future: true
-highlighter: rouge
-# markdown: kramdown
-# markdown: redcarpet
-# pygments: true
-
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
 
 kramdown:
   auto_ids: true
-  footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+  toc_levels: 1..3
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 
-  # coderay:
-  #   coderay_line_numbers:
-  #   coderay_line_numbers_start: 1
-  #   coderay_tab_width: 4
-  #   coderay_bold_every: 10
-  #   coderay_css: class
-
-
-# disqus settings:
-disqus:
-  shortname: GWW
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+permalink: /:categories/:title
+exclude:
+  - README.md
+  - LICENSE
+  - backup
