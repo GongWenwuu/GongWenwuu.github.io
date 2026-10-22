@@ -31,10 +31,10 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
 <h2>News</h2>
 <ul class="news">
   <li><time datetime="2026-09">2026</time> Joined the Department of Mathematics, School of Mathematics and Computer Science, Nanchang University.</li>
-  <li><time datetime="2026">2026</time> <a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a> was published in <em>Neurocomputing</em> (co-first author).</li>
+  <li><time datetime="2026">2026</time> <a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a> was published in <em>Neurocomputing</em>.</li>
   <li><time datetime="2026-03">Mar. 2026</time> Talk on CATNN at IPDL, Chongqing.</li>
   <li><time datetime="2026">2026</time> Three conference papers: <a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a> at ICIP, and <a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a> and <a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a> at ICIC.</li>
-  <li><time datetime="2025">2025</time> First prize, Innovative Application Award, Disaster Prevention Science and Technology Award (灾害防御科学技术奖).</li>
+  <li><time datetime="2025">2025</time> First prize, Innovative Application Award, Disaster Prevention Science and Technology Award.</li>
   <li><time datetime="2025">2025</time> <a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a> received the Best Paper Award at ICCBD+AI. <a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a> appeared in <em>Signal Processing</em>.</li>
 </ul>
 
