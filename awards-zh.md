@@ -10,7 +10,7 @@ description: 龚文武，南昌大学数学与计算机学院数学系。可解�
 <p>1996年10月生，江西新余。现工作于南昌大学数学与计算机学院数学系。研究方向为智能计算驱动的跨学科数学建模，聚焦数据先验驱动的可解释深度学习、张量表示及其在计算成像中的应用。</p>
 <p>以第一作者或共同第一作者发表论文 17 篇，其中 SCI 论文 6 篇（中科院一区 1 篇、二区 2 篇、三区 3 篇），CCF 类国际会议论文 6 篇。主持中国博士后科学基金面上项目和南方科技大学创新创业基金项目，参与国家自然科学基金及科技部重点专项。</p>
 <ul class="contact">
-  <li><a href="mailto:gongww@sustech.edu.cn">gongww@sustech.edu.cn</a></li>
+  <li><a href="mailto:gongww_math@ncu.edu.cn">gongww_math@ncu.edu.cn</a></li>
   <li><a href="https://scholar.google.com/citations?user=H_NURZQAAAAJ">Google Scholar</a></li>
   <li><a href="https://github.com/GongWenwuu">GitHub</a></li>
   <li><a href="{{ '/' | relative_url }}">English</a></li>

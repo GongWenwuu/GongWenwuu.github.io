@@ -6,8 +6,8 @@ description: Curriculum vitae of Wenwu Gong (龚文武).
 ---
 
 <h1>Curriculum vitae</h1>
-<p class="lede">Wenwu Gong（龚文武） · <a href="mailto:gongww@sustech.edu.cn">gongww@sustech.edu.cn</a> · <a href="https://gongwenwuu.github.io/">gongwenwuu.github.io</a> · <a href="https://scholar.google.com/citations?user=H_NURZQAAAAJ">Google Scholar</a> · <a href="https://github.com/GongWenwuu">GitHub</a></p>
-<p>This page follows the Overleaf résumé updated in October 2026. The Chinese version is <a href="{{ '/awards-zh/' | relative_url }}">here</a>. A PDF export of the November 2025 résumé remains at <a href="{{ '/file/CV.pdf' | relative_url }}">file/CV.pdf</a>; the text on this page is the newer source.</p>
+<p class="lede">Wenwu Gong（龚文武） · <a href="mailto:gongww_math@ncu.edu.cn">gongww_math@ncu.edu.cn</a> · <a href="https://gongwenwuu.github.io/">gongwenwuu.github.io</a> · <a href="https://scholar.google.com/citations?user=H_NURZQAAAAJ">Google Scholar</a> · <a href="https://github.com/GongWenwuu">GitHub</a></p>
+<p>中文简介见 <a href="{{ '/awards-zh/' | relative_url }}">中文页</a>。</p>
 
 <h2>Appointment</h2>
 <ul class="timeline">

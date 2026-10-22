@@ -17,7 +17,6 @@ description: Research directions and funded projects of Wenwu Gong.
     </div>
   </article>
   <article class="card">
-    <img src="{{ '/images/Tucker.jpg' | relative_url }}" alt="Low-rank and smooth Tucker decomposition for hyperspectral images">
     <div class="card-body">
       <h3>Model-driven and learning-guided tensor representation</h3>
       <p>LRTuckerRep, gradient-regularized Tucker decomposition, and ARTD put a global low-rank penalty next to local smoothness. 3DeepRep and the channel-aware tensor nuclear norm then learn the transform, with the low-rank penalty still explicit. The target tasks are image restoration, hyperspectral inpainting, and other multi-dimensional completion problems.</p>
@@ -25,7 +24,6 @@ description: Research directions and funded projects of Wenwu Gong.
     </div>
   </article>
   <article class="card">
-    <img src="{{ '/images/STRTD.jpg' | relative_url }}" alt="Spatiotemporal Tucker model for missing traffic data">
     <div class="card-body">
       <h3>Spatiotemporal modeling</h3>
       <p>TuckerAPP, LSPTD, LBNTD, and BACP recover traffic and network tensors when most entries are missing. POI-LLM, STTFN, and AWD-DPT forecast by separating a slow trend from a fast residual. POI-LLM received the Best Paper Award at ICCBD+AI.</p>

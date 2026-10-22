@@ -17,7 +17,7 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
       <li>Computational imaging</li>
     </ul>
     <ul class="contact">
-      <li><a href="mailto:gongww@sustech.edu.cn">gongww@sustech.edu.cn</a></li>
+      <li><a href="mailto:gongww_math@ncu.edu.cn">gongww_math@ncu.edu.cn</a></li>
       <li><a href="https://scholar.google.com/citations?user=H_NURZQAAAAJ">Google Scholar</a></li>
       <li><a href="https://orcid.org/0000-0002-8019-0582">ORCID</a></li>
       <li><a href="https://github.com/GongWenwuu">GitHub</a></li>
@@ -71,7 +71,6 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
     </div>
   </article>
   <article class="card">
-    <img src="{{ '/images/ARTD.jpg' | relative_url }}" alt="Diagram of sparsity-based Tucker decomposition for image restoration">
     <div class="card-body">
       <h3>Low-rank tensor representation</h3>
       <p>Model-driven Tucker methods (LRTuckerRep, gradient-regularized Tucker, ARTD) and learning-guided self-supervised models (3DeepRep, channel-aware tensor nuclear norm) for multi-dimensional recovery.</p>
@@ -79,7 +78,6 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
     </div>
   </article>
   <article class="card">
-    <img src="{{ '/images/STRTD.jpg' | relative_url }}" alt="Diagram of spatiotemporal regularized Tucker decomposition for traffic imputation">
     <div class="card-body">
       <h3>Spatiotemporal modeling</h3>
       <p>Prior-driven tensor recovery (TuckerAPP, LSPTD, LBNTD, BACP) and decoupled predictors (POI-LLM, STTFN, AWD-DPT) that separate long-term structure from short-term events.</p>
@@ -120,7 +118,7 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
 <h2>Talks</h2>
 <ul class="talks">
   <li><span class="when">Mar. 2026</span> Learning-guided tensor nuclear norm for hyperspectral image inpainting. <a href="https://ipdl.xyz/gyhtgwty">IPDL</a>, Chongqing.</li>
-  <li><span class="when">Nov. 2025</span> Low-rank Tucker representation for multi-dimensional data completion. <a href="https://dmip.org/index.html">DMIP</a>, Tokyo. <a href="{{ '/blogs/DMIP2025_slides.pdf' | relative_url }}">Slides</a>.</li>
+  <li><span class="when">Nov. 2025</span> Low-rank Tucker representation for multi-dimensional data completion. <a href="https://dmip.org/index.html">DMIP</a>, Tokyo.</li>
   <li><span class="when">Jan. 2025</span> Low-rank bi-directional neighbor Tucker decomposition for traffic imputation. <a href="https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/22779">TRB Annual Meeting</a>, Washington, D.C. <a href="{{ '/mypaper/LBNTD_2025.pdf' | relative_url }}">PDF</a>.</li>
   <li><span class="when">Mar. 2024</span> Spatiotemporal Tucker decomposition for traffic imputation. Graduate Academic Forum, SUSTech. First prize.</li>
 </ul>
