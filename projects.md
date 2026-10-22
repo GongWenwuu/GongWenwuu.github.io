@@ -13,21 +13,18 @@ description: Research directions and funded projects of Wenwu Gong.
     <div class="card-body">
       <h3>Interpretable artificial intelligence</h3>
       <p>I use neural differential equations and causal representation learning to keep imaging and recommendation models inspectable. The China Postdoctoral Science Foundation project on model- and data-driven low-rank tensor factorization is the funded line of this work. Recent manuscripts are <a href="{{ '/publications/' | relative_url }}#prome">ProME</a> and <a href="{{ '/publications/' | relative_url }}#clear">CLEAR</a>.</p>
-      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#prome">ProME</a><a href="{{ '/publications/' | relative_url }}#clear">CLEAR</a></p>
     </div>
   </article>
   <article class="card">
     <div class="card-body">
       <h3>Model-driven and learning-guided tensor representation</h3>
       <p><a href="{{ '/publications/' | relative_url }}#lrtuckerre">LRTuckerRep</a>, <a href="{{ '/publications/' | relative_url }}#gradienttd">GradientTD</a>, and <a href="{{ '/publications/' | relative_url }}#artd">ARTD</a> put a global low-rank penalty next to local smoothness. <a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a> and <a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a> then learn the transform, with the low-rank penalty still explicit. The target tasks are image restoration, hyperspectral inpainting, and other multi-dimensional completion problems.</p>
-      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#lrtuckerre">LRTuckerRep</a><a href="{{ '/publications/' | relative_url }}#gradienttd">GradientTD</a><a href="{{ '/publications/' | relative_url }}#artd">ARTD</a><a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a><a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a></p>
     </div>
   </article>
   <article class="card">
     <div class="card-body">
       <h3>Spatiotemporal modeling</h3>
-      <p><a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a>, <a href="{{ '/publications/' | relative_url }}#lsptd">LSPTD</a>, <a href="{{ '/publications/' | relative_url }}#lbntd">LBNTD</a>, and <a href="{{ '/publications/' | relative_url }}#bacp">BACP</a> recover traffic and network tensors when most entries are missing. <a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a>, <a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a>, and <a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a> forecast by separating a slow trend from a fast residual. <a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a> received the Best Paper Award at ICCBD+AI.</p>
-      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a><a href="{{ '/publications/' | relative_url }}#lsptd">LSPTD</a><a href="{{ '/publications/' | relative_url }}#lbntd">LBNTD</a><a href="{{ '/publications/' | relative_url }}#bacp">BACP</a><a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a><a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a><a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a></p>
+      <p><a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a>, <a href="{{ '/publications/' | relative_url }}#lsptd">LSPTD</a>, <a href="{{ '/publications/' | relative_url }}#lbntd">LBNTD</a>, and <a href="{{ '/publications/' | relative_url }}#bacp">BACP</a> recover traffic and network tensors when most entries are missing. <a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a> (Best Paper, ICCBD+AI), <a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a>, and <a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a> forecast by separating a slow trend from a fast residual.</p>
     </div>
   </article>
 </div>
