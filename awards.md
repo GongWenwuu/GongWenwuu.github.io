@@ -2,26 +2,25 @@
 layout: page
 permalink: /awards/index.html
 title: Awards
+description: Honours and awards of Wenwu Gong.
 ---
 
-## Scholarships
+<h1>Awards</h1>
+<p class="legend">The fellowship appointment is listed with the position on the <a href="{{ '/' | relative_url }}">about page</a>. A Chinese summary is on the <a href="{{ '/awards-zh/' | relative_url }}">中文 page</a>.</p>
 
-- Oct 2023：**National Scholarship** 
-- May 2021：**B Level** <a style="color: #447ec9" href="https://gs.sustech.edu.cn/#/common/detail?current_id=11&id=176&article_id=3009">Innovative Practice Fund of SUSTech</a>
+<ul class="timeline">
+  <li><span class="when">2025</span> First prize, Innovative Application Award, Disaster Prevention Science and Technology Award (灾害防御科学技术奖创新应用奖一等奖).</li>
+  <li><span class="when">2024 – 2026</span> SUSTech Presidential Postdoctoral Fellowship (校长卓越博士后), Department of Statistics and Data Science.</li>
+  <li><span class="when">2023</span> National Scholarship (国家奖学金).</li>
+  <li><span class="when">2023</span> Outstanding Graduate Student, SUSTech (优秀毕业研究生).</li>
+  <li><span class="when">2023</span> International Training Program for Outstanding Young Researchers, Guangdong Province (广东省优秀青年科研人才访学项目).</li>
+  <li><span class="when">2021</span> SUSTech Innovative Practice Scholarship (创新实践奖励).</li>
+  <li><span class="when">2020</span> Second prize, National Postgraduate Statistical Modeling Competition (全国研究生统计建模大赛二等奖).</li>
+  <li><span class="when">2024</span> First prize, Graduate Academic Forum, SUSTech, for the talk on spatiotemporal Tucker decomposition.</li>
+</ul>
 
-## Competitions
-
-- Dec 2020：**Second Prize** <a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/News/146.html">National Postgraduate Statistical Modeling Competition</a>
-
-## Honors
-
-- June 2023：**International Training program** <a style="color: #447ec9" href="https://gs.sustech.edu.cn/#/common/detail?current_id=8&id=127&article_id=3077">International training program for outstanding young researchers of Guangdong Province</a>(￥18000)
-- Sep 2020：**<a style="color: #447ec9" href="https://gs.sustech.edu.cn/#/common/detail?current_id=11&id=176&article_id=3009">Innovative Practice Fund of SUSTech</a>**(￥82000)
-
-## Services
-- Nov 2022：Volunteer of **XPLORER Forum**
-- May 2022：Volunteer of **<a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/portal/meeting/index/id/9">2022 Symposium on Statistics and Data Science </a>**
-- Aug 2021：Volunteer of **<a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/portal/meeting/index/id/6?lang=en-us">2021 Shenzhen International Conference on Biostatistics </a>**
-- Dec 2020：Volunteer of **<a style="color: #447ec9" href="https://stat-ds.sustech.edu.cn/portal/meeting/index/id/6?lang=en-us">2020 Shenzhen International Conference on Frontiers of Statistics and Data Science </a>**
-  
-Lastest Update: 28th November 2023 &nbsp; 
+<h2>Best paper awards</h2>
+<ul class="plain">
+  <li>POI-LLM, Best Paper, IEEE ICCBD+AI, Xiamen. <a href="https://doi.org/10.1109/ICCBDAI66607.2025.11388271">DOI</a>.</li>
+  <li>Overlapping tensor-train completion with TV regularization, Best Paper, IEEE ICCBD+AI, Jingdezhen. <a href="https://doi.org/10.1109/ICCBD-AI65562.2024.00069">DOI</a>.</li>
+</ul>
