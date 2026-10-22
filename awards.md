@@ -21,6 +21,6 @@ description: Honours and awards of Wenwu Gong.
 
 <h2>Best paper awards</h2>
 <ul class="plain">
-  <li>POI-LLM, Best Paper, IEEE ICCBD+AI, Xiamen. <a href="https://doi.org/10.1109/ICCBDAI66607.2025.11388271">DOI</a>.</li>
-  <li>Overlapping tensor-train completion with TV regularization, Best Paper, IEEE ICCBD+AI, Jingdezhen. <a href="https://doi.org/10.1109/ICCBD-AI65562.2024.00069">DOI</a>.</li>
+  <li><a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a>, Best Paper, IEEE ICCBD+AI, Xiamen. <a href="https://doi.org/10.1109/ICCBDAI66607.2025.11388271">DOI</a>.</li>
+  <li><a href="{{ '/publications/' | relative_url }}#ottv">Overlapping tensor-train completion with TV regularization</a>, Best Paper, IEEE ICCBD+AI, Jingdezhen. <a href="https://doi.org/10.1109/ICCBD-AI65562.2024.00069">DOI</a>.</li>
 </ul>

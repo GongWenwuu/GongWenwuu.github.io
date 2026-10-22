@@ -12,22 +12,22 @@ description: Research directions and funded projects of Wenwu Gong.
   <article class="card">
     <div class="card-body">
       <h3>Interpretable artificial intelligence</h3>
-      <p>I use neural differential equations and causal representation learning to keep imaging and recommendation models inspectable. The China Postdoctoral Science Foundation project on model- and data-driven low-rank tensor factorization is the funded line of this work. Recent manuscripts are ProME and CLEAR.</p>
-      <p class="card-links"><a href="https://arxiv.org/abs/2608.13190">ProME</a><a href="https://arxiv.org/abs/2608.03647">CLEAR</a></p>
+      <p>I use neural differential equations and causal representation learning to keep imaging and recommendation models inspectable. The China Postdoctoral Science Foundation project on model- and data-driven low-rank tensor factorization is the funded line of this work. Recent manuscripts are <a href="{{ '/publications/' | relative_url }}#prome">ProME</a> and <a href="{{ '/publications/' | relative_url }}#clear">CLEAR</a>.</p>
+      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#prome">ProME</a><a href="{{ '/publications/' | relative_url }}#clear">CLEAR</a></p>
     </div>
   </article>
   <article class="card">
     <div class="card-body">
       <h3>Model-driven and learning-guided tensor representation</h3>
-      <p>LRTuckerRep, GradientTD, and ARTD put a global low-rank penalty next to local smoothness. 3DeepRep and CATNN then learn the transform, with the low-rank penalty still explicit. The target tasks are image restoration, hyperspectral inpainting, and other multi-dimensional completion problems.</p>
-      <p class="card-links"><a href="https://doi.org/10.1016/j.neucom.2026.133160">3DeepRep</a><a href="https://arxiv.org/abs/2508.03755">LRTuckerRep</a><a href="https://doi.org/10.1016/j.apm.2023.06.031">ARTD</a><a href="https://doi.org/10.1109/ICIP61757.2026.11630166">CATNN</a></p>
+      <p><a href="{{ '/publications/' | relative_url }}#lrtuckerre">LRTuckerRep</a>, <a href="{{ '/publications/' | relative_url }}#gradienttd">GradientTD</a>, and <a href="{{ '/publications/' | relative_url }}#artd">ARTD</a> put a global low-rank penalty next to local smoothness. <a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a> and <a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a> then learn the transform, with the low-rank penalty still explicit. The target tasks are image restoration, hyperspectral inpainting, and other multi-dimensional completion problems.</p>
+      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#lrtuckerre">LRTuckerRep</a><a href="{{ '/publications/' | relative_url }}#gradienttd">GradientTD</a><a href="{{ '/publications/' | relative_url }}#artd">ARTD</a><a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a><a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a></p>
     </div>
   </article>
   <article class="card">
     <div class="card-body">
       <h3>Spatiotemporal modeling</h3>
-      <p>TuckerAPP, LSPTD, LBNTD, and BACP recover traffic and network tensors when most entries are missing. POI-LLM, STTFN, and AWD-DPT forecast by separating a slow trend from a fast residual. POI-LLM received the Best Paper Award at ICCBD+AI.</p>
-      <p class="card-links"><a href="https://doi.org/10.1016/j.sigpro.2025.110383">TuckerAPP</a><a href="https://doi.org/10.1109/ITSC57777.2023.10422071">LSPTD</a><a href="{{ '/mypaper/LBNTD_2025.pdf' | relative_url }}">LBNTD</a><a href="https://doi.org/10.1109/ICCBDAI66607.2025.11388271">POI-LLM</a></p>
+      <p><a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a>, <a href="{{ '/publications/' | relative_url }}#lsptd">LSPTD</a>, <a href="{{ '/publications/' | relative_url }}#lbntd">LBNTD</a>, and <a href="{{ '/publications/' | relative_url }}#bacp">BACP</a> recover traffic and network tensors when most entries are missing. <a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a>, <a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a>, and <a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a> forecast by separating a slow trend from a fast residual. <a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a> received the Best Paper Award at ICCBD+AI.</p>
+      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a><a href="{{ '/publications/' | relative_url }}#lsptd">LSPTD</a><a href="{{ '/publications/' | relative_url }}#lbntd">LBNTD</a><a href="{{ '/publications/' | relative_url }}#bacp">BACP</a><a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a><a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a><a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a></p>
     </div>
   </article>
 </div>
@@ -43,7 +43,7 @@ description: Research directions and funded projects of Wenwu Gong.
 
 <h2>Earlier lines</h2>
 <ul class="plain">
-  <li>Tucker-based low-rank tensor completion, 2020–2023: ARTD, ELRSTD, LSPTD, and TuckerAPP.</li>
-  <li>COVID-19 intervention analysis, 2020–2022, including the <em>PLoS ONE</em> comparison of China, the United States, and Singapore, and a second prize in the National Postgraduate Statistical Modeling Competition.</li>
-  <li>Dynamic risk assessment of compound hazards, M.Sc. work published in <em>Natural Hazards and Earth System Sciences</em> (2022).</li>
+  <li>Tucker-based low-rank tensor completion, 2020–2024: <a href="{{ '/publications/' | relative_url }}#artd">ARTD</a>, <a href="{{ '/publications/' | relative_url }}#lsptd">LSPTD</a>, <a href="{{ '/publications/' | relative_url }}#elrstd">ELRSTD</a>, <a href="{{ '/publications/' | relative_url }}#latd">LATD</a>, <a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a>, <a href="{{ '/publications/' | relative_url }}#lbntd">LBNTD</a>, <a href="{{ '/publications/' | relative_url }}#lrtuckerre">LRTuckerRep</a>, and <a href="{{ '/publications/' | relative_url }}#gradienttd">GradientTD</a>.</li>
+  <li>COVID-19 intervention analysis, 2020–2022, including the <a href="{{ '/publications/' | relative_url }}#sarimax"><em>PLoS ONE</em></a> comparison of China, the United States, and Singapore, and a second prize in the National Postgraduate Statistical Modeling Competition.</li>
+  <li>Dynamic risk assessment of compound hazards, M.Sc. work published in <a href="{{ '/publications/' | relative_url }}#vfs-iem-idm"><em>Natural Hazards and Earth System Sciences</em></a> (2022).</li>
 </ul>

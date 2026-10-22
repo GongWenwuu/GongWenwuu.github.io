@@ -31,25 +31,25 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
 <h2>News</h2>
 <ul class="news">
   <li><time datetime="2026-09">2026</time> Joined the Department of Mathematics, School of Mathematics and Computer Science, Nanchang University, after the SUSTech Presidential Postdoctoral Fellowship.</li>
-  <li><time datetime="2026">2026</time> <a href="https://doi.org/10.1016/j.neucom.2026.133160">3DeepRep</a> was published in <em>Neurocomputing</em> (co-first author).</li>
+  <li><time datetime="2026">2026</time> <a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a> was published in <em>Neurocomputing</em> (co-first author).</li>
   <li><time datetime="2026-03">Mar. 2026</time> Talk on CATNN at IPDL, Chongqing.</li>
-  <li><time datetime="2026">2026</time> Three conference papers: CATNN at ICIP, and AWD-DPT and STTFN at ICIC.</li>
+  <li><time datetime="2026">2026</time> Three conference papers: <a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a> at ICIP, and <a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a> and <a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a> at ICIC.</li>
   <li><time datetime="2025">2025</time> First prize, Innovative Application Award, Disaster Prevention Science and Technology Award (灾害防御科学技术奖).</li>
-  <li><time datetime="2025">2025</time> <a href="https://doi.org/10.1109/ICCBDAI66607.2025.11388271">POI-LLM</a> received the Best Paper Award at ICCBD+AI. <a href="https://doi.org/10.1016/j.sigpro.2025.110383">TuckerAPP</a> appeared in <em>Signal Processing</em>.</li>
+  <li><time datetime="2025">2025</time> <a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a> received the Best Paper Award at ICCBD+AI. <a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a> appeared in <em>Signal Processing</em>.</li>
 </ul>
 
 <h2>Selected papers</h2>
 <ol class="selected">
   <li class="pub">
-    <a class="pub-title" href="https://doi.org/10.1016/j.neucom.2026.133160">3DeepRep</a>
+    <a class="pub-title" href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a>
     <p class="pub-line">Yunshan Li, <span class="cofirst">Wenwu Gong</span>, Chao Wang, Lili Yang. <em>Neurocomputing</em>, 678:133160, 2026. <span class="tag">JCR Q1</span><a class="tag tag-link" href="https://doi.org/10.1016/j.neucom.2026.133160">DOI</a></p>
   </li>
   <li class="pub">
-    <a class="pub-title" href="https://doi.org/10.1016/j.sigpro.2025.110383">TuckerAPP</a>
+    <a class="pub-title" href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a>
     <p class="pub-line"><strong>Wenwu Gong</strong>, Zhejun Huang, Jiaxin Lu, Lili Yang. <em>Signal Processing</em>, 240:110383, 2026. <span class="tag">JCR Q2</span><a class="tag tag-link" href="{{ '/mypaper/TuckerAPP_2025.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/TuckerAPP">Code</a></p>
   </li>
   <li class="pub">
-    <a class="pub-title" href="https://doi.org/10.1016/j.apm.2023.06.031">ARTD</a>
+    <a class="pub-title" href="{{ '/publications/' | relative_url }}#artd">ARTD</a>
     <p class="pub-line"><strong>Wenwu Gong</strong>, Zhejun Huang, Lili Yang. <em>Applied Mathematical Modelling</em>, 123:75–86, 2023. <span class="tag">JCR Q1</span><a class="tag tag-link" href="{{ '/mypaper/ARTD_2023.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/ARTD">Code</a></p>
   </li>
 </ol>
@@ -60,22 +60,22 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
   <article class="card">
     <div class="card-body">
       <h3>Interpretable artificial intelligence</h3>
-      <p>Hybrid models that keep a mathematical object inside the learner: neural differential equations, supported by the China Postdoctoral Science Foundation, and causal representation learning for imaging and recommendation.</p>
-      <p class="card-links"><a href="https://arxiv.org/abs/2608.13190">ProME</a><a href="https://arxiv.org/abs/2608.03647">CLEAR</a></p>
+      <p>Hybrid models that keep a mathematical object inside the learner: neural differential equations, supported by the China Postdoctoral Science Foundation, and causal representation learning for imaging and recommendation (<a href="{{ '/publications/' | relative_url }}#prome">ProME</a>, <a href="{{ '/publications/' | relative_url }}#clear">CLEAR</a>).</p>
+      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#prome">ProME</a><a href="{{ '/publications/' | relative_url }}#clear">CLEAR</a></p>
     </div>
   </article>
   <article class="card">
     <div class="card-body">
       <h3>Low-rank tensor representation</h3>
-      <p>Model-driven Tucker methods (LRTuckerRep, GradientTD, ARTD) and learning-guided self-supervised models (3DeepRep, CATNN) for multi-dimensional recovery.</p>
-      <p class="card-links"><a href="https://doi.org/10.1016/j.neucom.2026.133160">3DeepRep</a><a href="https://arxiv.org/abs/2508.03755">LRTuckerRep</a><a href="https://doi.org/10.1016/j.apm.2023.06.031">ARTD</a></p>
+      <p>Model-driven Tucker methods (<a href="{{ '/publications/' | relative_url }}#lrtuckerre">LRTuckerRep</a>, <a href="{{ '/publications/' | relative_url }}#gradienttd">GradientTD</a>, <a href="{{ '/publications/' | relative_url }}#artd">ARTD</a>) and learning-guided self-supervised models (<a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a>, <a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a>) for multi-dimensional recovery.</p>
+      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a><a href="{{ '/publications/' | relative_url }}#lrtuckerre">LRTuckerRep</a><a href="{{ '/publications/' | relative_url }}#gradienttd">GradientTD</a><a href="{{ '/publications/' | relative_url }}#artd">ARTD</a><a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a></p>
     </div>
   </article>
   <article class="card">
     <div class="card-body">
       <h3>Spatiotemporal modeling</h3>
-      <p>Prior-driven tensor recovery (TuckerAPP, LSPTD, LBNTD, BACP) and decoupled predictors (POI-LLM, STTFN, AWD-DPT) that separate long-term structure from short-term events.</p>
-      <p class="card-links"><a href="https://doi.org/10.1016/j.sigpro.2025.110383">TuckerAPP</a><a href="https://doi.org/10.1109/ICCBDAI66607.2025.11388271">POI-LLM</a></p>
+      <p>Prior-driven tensor recovery (<a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a>, <a href="{{ '/publications/' | relative_url }}#lsptd">LSPTD</a>, <a href="{{ '/publications/' | relative_url }}#lbntd">LBNTD</a>, <a href="{{ '/publications/' | relative_url }}#bacp">BACP</a>) and decoupled predictors (<a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a>, <a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a>, <a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a>) that separate long-term structure from short-term events.</p>
+      <p class="card-links"><a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a><a href="{{ '/publications/' | relative_url }}#lsptd">LSPTD</a><a href="{{ '/publications/' | relative_url }}#lbntd">LBNTD</a><a href="{{ '/publications/' | relative_url }}#bacp">BACP</a><a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a><a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a><a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a></p>
     </div>
   </article>
 </div>

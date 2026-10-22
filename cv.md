@@ -16,7 +16,7 @@ description: Curriculum vitae of Wenwu Gong (龚文武).
 </ul>
 
 <h2>Research</h2>
-<p>Model-driven interpretable AI, low-rank tensor representation, and interdisciplinary mathematical modeling. The three lines are interpretable hybrids (neural differential equations, ProME, CLEAR), Tucker and learning-guided tensor models (LRTuckerRep, GradientTD, ARTD, 3DeepRep, CATNN), and spatiotemporal recovery and forecasting (TuckerAPP, LSPTD, LBNTD, BACP, POI-LLM, STTFN, AWD-DPT).</p>
+<p>Model-driven interpretable AI, low-rank tensor representation, and interdisciplinary mathematical modeling. The three lines are interpretable hybrids (neural differential equations, <a href="{{ '/publications/' | relative_url }}#prome">ProME</a>, <a href="{{ '/publications/' | relative_url }}#clear">CLEAR</a>), Tucker and learning-guided tensor models (<a href="{{ '/publications/' | relative_url }}#lrtuckerre">LRTuckerRep</a>, <a href="{{ '/publications/' | relative_url }}#gradienttd">GradientTD</a>, <a href="{{ '/publications/' | relative_url }}#artd">ARTD</a>, <a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a>, <a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a>), and spatiotemporal recovery and forecasting (<a href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a>, <a href="{{ '/publications/' | relative_url }}#lsptd">LSPTD</a>, <a href="{{ '/publications/' | relative_url }}#lbntd">LBNTD</a>, <a href="{{ '/publications/' | relative_url }}#bacp">BACP</a>, <a href="{{ '/publications/' | relative_url }}#poi-llm">POI-LLM</a>, <a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a>, <a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a>).</p>
 
 <h2>Education</h2>
 <ul class="timeline">
