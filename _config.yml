@@ -24,7 +24,7 @@ links:
   - title: 中文
     url: /awards-zh/
 
-timezone: Asia/Shanghai
+timezone: Asia/Nanchang
 future: true
 
 kramdown:
