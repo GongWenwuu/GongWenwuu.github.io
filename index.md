@@ -41,15 +41,15 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
 <ol class="selected">
   <li class="pub">
     <a class="pub-title" href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a>
-    <p class="pub-line">Yunshan Li, <span class="cofirst">Wenwu Gong</span>, Chao Wang, Lili Yang. <em>Neurocomputing</em>, 678:133160, 2026. <span class="tag">JCR Q1</span><a class="tag tag-link" href="https://doi.org/10.1016/j.neucom.2026.133160">DOI</a></p>
+    <p class="pub-line">Yunshan Li, <span class="cofirst">Wenwu Gong</span>. <em>Neurocomputing</em>, 678:133160, 2026. <span class="tag">JCR Q1</span><a class="tag tag-link" href="https://doi.org/10.1016/j.neucom.2026.133160">DOI</a></p>
   </li>
   <li class="pub">
     <a class="pub-title" href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a>
-    <p class="pub-line"><strong>Wenwu Gong</strong>, Zhejun Huang, Jiaxin Lu, Lili Yang. <em>Signal Processing</em>, 240:110383, 2026. <span class="tag">JCR Q2</span><a class="tag tag-link" href="{{ '/mypaper/TuckerAPP_2025.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/TuckerAPP">Code</a></p>
+    <p class="pub-line"><strong>Wenwu Gong</strong>. <em>Signal Processing</em>, 240:110383, 2026. <span class="tag">JCR Q2</span><a class="tag tag-link" href="{{ '/mypaper/TuckerAPP_2025.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/TuckerAPP">Code</a></p>
   </li>
   <li class="pub">
     <a class="pub-title" href="{{ '/publications/' | relative_url }}#artd">ARTD</a>
-    <p class="pub-line"><strong>Wenwu Gong</strong>, Zhejun Huang, Lili Yang. <em>Applied Mathematical Modelling</em>, 123:75–86, 2023. <span class="tag">JCR Q1</span><a class="tag tag-link" href="{{ '/mypaper/ARTD_2023.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/ARTD">Code</a></p>
+    <p class="pub-line"><strong>Wenwu Gong</strong>. <em>Applied Mathematical Modelling</em>, 123:75–86, 2023. <span class="tag">JCR Q1</span><a class="tag tag-link" href="{{ '/mypaper/ARTD_2023.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/ARTD">Code</a></p>
   </li>
 </ol>
 <p><a href="{{ '/publications/' | relative_url }}">Full publication list</a></p>
