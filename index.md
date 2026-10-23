@@ -26,11 +26,10 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
   </div>
 </section>
 
-<p class="note">Previously a SUSTech Presidential Postdoctoral Fellow in the Department of Statistics and Data Science (Sep. 2024 – Sep. 2026). Ph.D. in Mathematics, SUSTech, 2024.</p>
+<p class="note">Previously a SUSTech Presidential Postdoctoral Fellow in the Department of Statistics and Data Science (Sep. 2024 – Sep. 2026).</p>
 
 <h2>News</h2>
 <ul class="news">
-  <li><time datetime="2026-09">2026</time> Joined the Department of Mathematics, School of Mathematics and Computer Science, Nanchang University.</li>
   <li><time datetime="2026">2026</time> <a href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a> was published in <em>Neurocomputing</em>.</li>
   <li><time datetime="2026-03">Mar. 2026</time> Talk on CATNN at IPDL, Chongqing.</li>
   <li><time datetime="2026">2026</time> Three conference papers: <a href="{{ '/publications/' | relative_url }}#catnn">CATNN</a> at ICIP, and <a href="{{ '/publications/' | relative_url }}#awd-dpt">AWD-DPT</a> and <a href="{{ '/publications/' | relative_url }}#sttfn">STTFN</a> at ICIC.</li>
@@ -83,6 +82,7 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
   <li><span class="when">2026 –</span> Department of Mathematics, School of Mathematics and Computer Science, Nanchang University.</li>
   <li><span class="when">2024 – 2026</span> SUSTech Presidential Postdoctoral Fellow, Department of Statistics and Data Science.</li>
   <li><span class="when">2020 – 2024</span> Ph.D. in Mathematics, Department of Statistics and Data Science, SUSTech. Low-rank tensor representation.</li>
+  <li><span class="when">2023 – 2024</span> Visiting student in Mathematics, HKUST. Nonconvex optimization.</li>
   <li><span class="when">2018 – 2020</span> M.Sc. in Mathematics, School of Mathematics, Harbin Institute of Technology. Probability and mathematical statistics.</li>
   <li><span class="when">2014 – 2018</span> B.Sc. in Mathematics and Applied Mathematics, Nanchang University.</li>
 </ul>
@@ -91,8 +91,8 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
   <section>
     <h2>Teaching</h2>
     <ul class="plain">
-      <li><a href="https://github.com/GongWenwuu/MA212-course">Probability Theory and Mathematical Statistics</a>, teaching assistant, Sep. 2019 – May 2021. Lectures and exercise sessions for 120 students.</li>
-      <li><a href="https://github.com/GongWenwuu/TD-course">Tensor Decomposition and Its Applications</a>, teaching assistant, Mar. 2023 – Jun. 2023. Tensor learning for 30 undergraduates.</li>
+      <li><a href="https://github.com/GongWenwuu/MA212-course">Probability Theory and Mathematical Statistics</a>, teaching assistant, Sep. 2019 – May 2021. </li>
+      <li><a href="https://github.com/GongWenwuu/TD-course">Tensor Decomposition and Its Applications</a>, teaching assistant, Mar. 2023 – Jun. 2023. </li>
     </ul>
   </section>
   <section>
