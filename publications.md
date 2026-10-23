@@ -12,7 +12,7 @@ description: Journal articles, conference papers, and preprints by Wenwu Gong.
 <ol class="pubs">
   <li class="cite" id="3deeprep">
     <p class="cite-method">3DeepRep</p>
-    <p class="cite-body">Yunshan Li, <span class="cofirst">Wenwu Gong</span>, Chao Wang, and Lili Yang (2026). <a href="https://doi.org/10.1016/j.neucom.2026.133160">3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting</a>. <em>Neurocomputing</em>, 678, 133160.</p>
+    <p class="cite-body">Yunshan Li, <span class="cofirst">Wenwu Gong</span>, Qianqian Wang, Chao Wang, and Lili Yang (2026). <a href="https://doi.org/10.1016/j.neucom.2026.133160">3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting</a>. <em>Neurocomputing</em>, 678, 133160.</p>
     <p class="cite-meta"><span class="tag">JCR Q1</span><span class="tag">IF 6.5</span><span class="tag">CAS Q2</span><span class="tag">CCF-C</span><a class="tag tag-link" href="https://doi.org/10.1016/j.neucom.2026.133160">DOI</a></p>
   </li>
   <li class="cite" id="tuckerapp">
@@ -56,7 +56,7 @@ description: Journal articles, conference papers, and preprints by Wenwu Gong.
   </li>
   <li class="cite" id="sttfn">
     <p class="cite-method">STTFN</p>
-    <p class="cite-body">Xinyu Shi, Jiaxin Lu, Wenwu Gong†, and Lili Yang (2026). <a href="https://doi.org/10.1007/978-981-92-3397-7_2">Spatio-temporal decoupling network with frequency domain enhancement for traffic forecasting</a>. <em>International Conference on Intelligent Computing (ICIC)</em>, Toronto.</p>
+    <p class="cite-body">Xinyu Shi, Wenwu Gong†, and Lili Yang (2026). <a href="https://doi.org/10.1007/978-981-92-3397-7_2">Spatio-temporal decoupling network with frequency domain enhancement for traffic forecasting</a>. <em>International Conference on Intelligent Computing (ICIC)</em>, Toronto.</p>
     <p class="cite-meta"><span class="tag">Oral</span><span class="tag">CCF-C</span><a class="tag tag-link" href="https://doi.org/10.1007/978-981-92-3397-7_2">DOI</a></p>
   </li>
   <li class="cite" id="poi-llm">
