@@ -41,7 +41,7 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
 <ol class="selected">
   <li class="pub">
     <a class="pub-title" href="{{ '/publications/' | relative_url }}#3deeprep">3DeepRep</a>
-    <p class="pub-line">Yunshan Li, <span class="cofirst">Wenwu Gong</span>. <em>Neurocomputing</em>, 678:133160, 2026. <span class="tag">JCR Q1</span><a class="tag tag-link" href="https://doi.org/10.1016/j.neucom.2026.133160">DOI</a></p>
+    <p class="pub-line">Yunshan Li, <span class="cofirst">Wenwu Gong</span>. <em>Neurocomputing</em>, 678:133160, 2026. <span class="tag">JCR Q1</span><a class="tag tag-link" href="https://doi.org/10.1016/j.neucom.2026.133160">DOI</a><a class="tag tag-link" href="{{ '/mypaper/3DeepRep_2026.pdf' | relative_url }}">PDF</a></p>
   </li>
   <li class="pub">
     <a class="pub-title" href="{{ '/publications/' | relative_url }}#tuckerapp">TuckerAPP</a>

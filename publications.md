@@ -13,7 +13,7 @@ description: Journal articles, conference papers, and preprints by Wenwu Gong.
   <li class="cite" id="3deeprep">
     <p class="cite-method">3DeepRep</p>
     <p class="cite-body">Yunshan Li, <span class="cofirst">Wenwu Gong</span>, Qianqian Wang, Chao Wang, and Lili Yang (2026). <a href="https://doi.org/10.1016/j.neucom.2026.133160">3DeepRep: 3D deep low-rank tensor representation for hyperspectral image inpainting</a>. <em>Neurocomputing</em>, 678, 133160.</p>
-    <p class="cite-meta"><span class="tag">JCR Q1</span><span class="tag">IF 6.5</span><span class="tag">CAS Q2</span><span class="tag">CCF-C</span><a class="tag tag-link" href="https://doi.org/10.1016/j.neucom.2026.133160">DOI</a></p>
+    <p class="cite-meta"><span class="tag">JCR Q1</span><span class="tag">IF 6.5</span><span class="tag">CAS Q2</span><span class="tag">CCF-C</span><a class="tag tag-link" href="https://doi.org/10.1016/j.neucom.2026.133160">DOI</a><a class="tag tag-link" href="{{ '/mypaper/3DeepRep_2026.pdf' | relative_url }}">PDF</a></p>
   </li>
   <li class="cite" id="tuckerapp">
     <p class="cite-method">TuckerAPP</p>
@@ -39,6 +39,11 @@ description: Journal articles, conference papers, and preprints by Wenwu Gong.
     <p class="cite-method">SARIMAX</p>
     <p class="cite-body">Fanyu Meng, <span class="cofirst">Wenwu Gong</span>, Jun Liang, Xian Li, Yiping Zeng, and Lili Yang (2021). <a href="https://doi.org/10.1371/journal.pone.0248361">Impact of different control policies for COVID-19 outbreak on the air transportation industry: A comparison between China, the United States, and Singapore</a>. <em>PLoS ONE</em>, 16(3), e0248361.</p>
     <p class="cite-meta"><span class="tag">JCR Q2</span><span class="tag">IF 3.7</span><span class="tag">Co-first</span><a class="tag tag-link" href="https://doi.org/10.1371/journal.pone.0248361">DOI</a><a class="tag tag-link" href="{{ '/mypaper/modeling/PLOS-ONE_2021.pdf' | relative_url }}">PDF</a></p>
+  </li>
+  <li class="cite" id="vfs-idm">
+    <p class="cite-method">VFS-IDM</p>
+    <p class="cite-body"><strong>Wenwu Gong</strong>, Kangming Chen, Thomas J. Huggins, and Lili Yang (2020). <a href="https://doi.org/10.4236/jamp.2020.85064">Risk evaluation based on variable fuzzy sets and information diffusion method</a>. <em>Journal of Applied Mathematics and Physics</em>, 8, 821–830.</p>
+    <p class="cite-meta"><span class="tag">First author</span><a class="tag tag-link" href="https://doi.org/10.4236/jamp.2020.85064">DOI</a><a class="tag tag-link" href="{{ '/mypaper/modeling/jamp_2020.pdf' | relative_url }}">PDF</a></p>
   </li>
 </ol>
 
@@ -72,32 +77,32 @@ description: Journal articles, conference papers, and preprints by Wenwu Gong.
   <li class="cite" id="ottv">
     <p class="cite-method">OTTV</p>
     <p class="cite-body">Lang Mo, <span class="cofirst">Wenwu Gong</span>, and Lili Yang (2025). <a href="https://doi.org/10.1109/ICCBD-AI65562.2024.00069">Overlapping tensor-train completion with TV regularization for image reconstruction</a>. <em>IEEE International Conference on Computer, Big Data and Artificial Intelligence (ICCBD+AI)</em>, Jingdezhen, pp. 373–378.</p>
-    <p class="cite-meta"><span class="tag">Best Paper</span><a class="tag tag-link" href="https://doi.org/10.1109/ICCBD-AI65562.2024.00069">DOI</a><a class="tag tag-link" href="{{ '/mypaper/OTTV_2024.pdf' | relative_url }}">PDF</a></p>
+    <p class="cite-meta"><span class="tag">Best Paper</span><a class="tag tag-link" href="https://doi.org/10.1109/ICCBD-AI65562.2024.00069">DOI</a></p>
   </li>
   <li class="cite" id="lbntd">
     <p class="cite-method">LBNTD</p>
-    <p class="cite-body">Jiaxin Lu, <span class="cofirst">Wenwu Gong</span>, and Lili Yang (2025). <a href="{{ '/mypaper/LBNTD_2025.pdf' | relative_url }}">Low-rank bi-directional neighbor Tucker decomposition for traffic data imputation</a>. <em>Transportation Research Board Annual Meeting</em>, Washington, D.C.</p>
-    <p class="cite-meta"><span class="tag">Oral</span><span class="tag">Top-tier</span><a class="tag tag-link" href="{{ '/mypaper/LBNTD_2025.pdf' | relative_url }}">PDF</a></p>
+    <p class="cite-body">Jiaxin Lu, <span class="cofirst">Wenwu Gong</span>, and Lili Yang (2025). Low-rank bi-directional neighbor Tucker decomposition for traffic data imputation. <em>Transportation Research Board Annual Meeting</em>, Washington, D.C.</p>
+    <p class="cite-meta"><span class="tag">Oral</span><span class="tag">Top-tier</span></p>
   </li>
   <li class="cite" id="elrstd">
     <p class="cite-method">ELRSTD</p>
     <p class="cite-body"><strong>Wenwu Gong</strong>, Zhejun Huang, and Lili Yang (2024). <a href="https://doi.org/10.1109/ICASSP48485.2024.10448445">Enhanced low-rank and sparse Tucker decomposition for image completion</a>. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, Seoul, pp. 2425–2429.</p>
-    <p class="cite-meta"><span class="tag">Poster</span><span class="tag">CCF-B</span><a class="tag tag-link" href="https://doi.org/10.1109/ICASSP48485.2024.10448445">DOI</a><a class="tag tag-link" href="{{ '/mypaper/ELRSTD_2024.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/ELRSTD">Code</a></p>
+    <p class="cite-meta"><span class="tag">Poster</span><span class="tag">CCF-B</span><a class="tag tag-link" href="https://doi.org/10.1109/ICASSP48485.2024.10448445">DOI</a></p>
   </li>
   <li class="cite" id="latd">
     <p class="cite-method">LATD</p>
     <p class="cite-body">Jiaxin Lu, <span class="cofirst">Wenwu Gong</span>, and Lili Yang (2024). <a href="https://doi.org/10.1109/ICAC61394.2024.10718844">Low-rank autoregressive Tucker decomposition for traffic data imputation</a>. <em>International Conference on Automation and Computing (ICAC)</em>, Sunderland, pp. 1–6.</p>
-    <p class="cite-meta"><a class="tag tag-link" href="https://doi.org/10.1109/ICAC61394.2024.10718844">DOI</a><a class="tag tag-link" href="{{ '/mypaper/LATD_2024.pdf' | relative_url }}">PDF</a></p>
+    <p class="cite-meta"><a class="tag tag-link" href="https://doi.org/10.1109/ICAC61394.2024.10718844">DOI</a></p>
   </li>
   <li class="cite" id="bacp">
     <p class="cite-method">BACP</p>
     <p class="cite-body">Rongping Huang, <span class="cofirst">Wenwu Gong</span>, Jiaxin Lu, and Lili Yang (2024). <a href="https://doi.org/10.1007/978-981-97-5618-6_10">BACP: Bayesian augmented CP factorization for traffic data imputation</a>. <em>International Conference on Intelligent Computing (ICIC)</em>, Tianjin, pp. 108–120.</p>
-    <p class="cite-meta"><span class="tag">Oral</span><span class="tag">CCF-C</span><a class="tag tag-link" href="https://doi.org/10.1007/978-981-97-5618-6_10">DOI</a><a class="tag tag-link" href="{{ '/mypaper/BACP_2024.pdf' | relative_url }}">PDF</a></p>
+    <p class="cite-meta"><span class="tag">Oral</span><span class="tag">CCF-C</span><a class="tag tag-link" href="https://doi.org/10.1007/978-981-97-5618-6_10">DOI</a></p>
   </li>
   <li class="cite" id="lsptd">
     <p class="cite-method">LSPTD</p>
     <p class="cite-body"><strong>Wenwu Gong</strong>, Zhejun Huang, and Lili Yang (2023). <a href="https://doi.org/10.1109/ITSC57777.2023.10422071">LSPTD: Low-rank and spatiotemporal priors enhanced Tucker decomposition for internet traffic data imputation</a>. <em>IEEE International Conference on Intelligent Transportation Systems (ITSC)</em>, Bilbao, pp. 460–465.</p>
-    <p class="cite-meta"><span class="tag">Oral</span><span class="tag">Top-tier</span><a class="tag tag-link" href="https://doi.org/10.1109/ITSC57777.2023.10422071">DOI</a><a class="tag tag-link" href="{{ '/mypaper/LSPTD_2023.pdf' | relative_url }}">PDF</a><a class="tag tag-link" href="https://github.com/GongWenwuu/LSPTD">Code</a></p>
+    <p class="cite-meta"><span class="tag">Oral</span><span class="tag">Top-tier</span><a class="tag tag-link" href="https://doi.org/10.1109/ITSC57777.2023.10422071">DOI</a></p>
   </li>
 </ol>
 
