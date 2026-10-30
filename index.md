@@ -26,7 +26,7 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
   </div>
 </section>
 
-<p class="note">Previously a SUSTech Presidential Postdoctoral Fellow in the Department of Statistics and Data Science (Sep. 2024 – Sep. 2026).</p>
+<p class="note">Previously a SUSTech Presidential Postdoctoral Fellow in the Department of Statistics and Data Science (Sep. 2024 – Sep. 2026). <a class="tag tag-link" href="{{ '/mypaper/理学院统计与数据科学系-龚文武-博士后研究工作报告.pdf' | relative_url }}">Research report (PDF)</a></p>
 
 <h2>News</h2>
 <ul class="news">
@@ -80,7 +80,7 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
 <h2>Appointment and education</h2>
 <ul class="timeline">
   <li><span class="when">2026 –</span> Department of Mathematics, School of Mathematics and Computer Science, Nanchang University.</li>
-  <li><span class="when">2024 – 2026</span> SUSTech Presidential Postdoctoral Fellow, Department of Statistics and Data Science.</li>
+  <li><span class="when">2024 – 2026</span> SUSTech Presidential Postdoctoral Fellow, Department of Statistics and Data Science. <a class="tag tag-link" href="{{ '/mypaper/理学院统计与数据科学系-龚文武-博士后研究工作报告.pdf' | relative_url }}">Research report (PDF)</a></li>
   <li><span class="when">2020 – 2024</span> Ph.D. in Mathematics, Department of Statistics and Data Science, SUSTech. Low-rank tensor representation.</li>
   <li><span class="when">2023 – 2024</span> Visiting student in Mathematics, HKUST. Nonconvex optimization.</li>
   <li><span class="when">2018 – 2020</span> M.Sc. in Mathematics, School of Mathematics, Harbin Institute of Technology. Probability and mathematical statistics.</li>
