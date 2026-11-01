@@ -12,7 +12,7 @@ description: Curriculum vitae of Wenwu Gong (龚文武).
 <h2>Appointment</h2>
 <ul class="timeline">
   <li><span class="when">2026 –</span> Department of Mathematics, School of Mathematics and Computer Science, Nanchang University.</li>
-  <li><span class="when">Sep. 2024 – Sep. 2026</span> SUSTech Presidential Postdoctoral Fellow (校长卓越博士后), Department of Statistics and Data Science, Southern University of Science and Technology.</li>
+  <li><span class="when">Sep. 2024 – Sep. 2026</span> SUSTech Presidential Postdoctoral Fellow, Department of Statistics and Data Science, Southern University of Science and Technology.</li>
 </ul>
 
 <h2>Research</h2>
