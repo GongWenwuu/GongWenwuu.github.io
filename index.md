@@ -26,7 +26,7 @@ description: Wenwu Gong (龚文武), Department of Mathematics, Nanchang Univers
   </div>
 </section>
 
-<p class="note">Previously a SUSTech Presidential Postdoctoral Fellow in the Department of Statistics and Data Science (Sep. 2024 – Sep. 2026). <a class="tag tag-link" href="{{ '/mypaper/理学院统计与数据科学系-龚文武-博士后研究工作报告.pdf' | relative_url }}">Research report (PDF)</a></p>
+<p class="note">Previously a SUSTech Presidential Postdoctoral Fellow in the Department of Statistics and Data Science (Sep. 2024 – Sep. 2026). 
 
 <h2>News</h2>
 <ul class="news">
